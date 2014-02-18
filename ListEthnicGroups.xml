@@ -1,0 +1,1248 @@
+<add>
+<doc boost="4.3979400086720375"><field name="id">ETHNO:abazins</field><field name="name">Abazins</field></doc>
+<doc boost="3.0791812460476247"><field name="id">ETHNO:abenaki</field><field name="name">Abenaki</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:abkhazs</field><field name="name">Abkhazs</field></doc>
+<doc boost="4.740362689494244"><field name="id">ETHNO:aboriginalaustralians</field><field name="name">Aboriginal Australians</field></doc>
+<doc boost="5.079181246047625"><field name="id">ETHNO:abron</field><field name="name">Abron</field></doc>
+<doc boost="5.146128035678238"><field name="id">ETHNO:abyssinians</field><field name="name">Abyssinians</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:acadians</field><field name="name">Acadians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:accohannock</field><field name="name">Accohannock</field></doc>
+<doc boost="3.462397997898956"><field name="id">ETHNO:achang</field><field name="name">Achang</field></doc>
+<doc boost="5.079181246047625"><field name="id">ETHNO:acehnese</field><field name="name">Acehnese</field></doc>
+<doc boost="5.079181246047625"><field name="id">ETHNO:acholi</field><field name="name">Acholi</field></doc>
+<doc boost="2.1760912590556813"><field name="id">ETHNO:achomawi</field><field name="name">Achomawi</field></doc>
+<doc boost="2.6989700043360187"><field name="id">ETHNO:acoma</field><field name="name">Acoma</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:adi</field><field name="name">Adi</field></doc>
+<doc boost="4.778151250383644"><field name="id">ETHNO:adyghe</field><field name="name">Adyghe</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:aeta</field><field name="name">Aeta</field></doc>
+<doc boost="5.698970004336019"><field name="id">ETHNO:afar</field><field name="name">Afar</field></doc>
+<doc boost="6.642307492918324"><field name="id">ETHNO:africanamericans</field><field name="name">African Americans</field></doc>
+<doc boost="2.6989700043360187"><field name="id">ETHNO:africanhebrewisraelitesofjerusalem</field><field name="name">African Hebrew Israelites of Jerusalem</field></doc>
+<doc boost="5.556302500767287"><field name="id">ETHNO:afrikaners</field><field name="name">Afrikaners</field></doc>
+<doc boost="7.2552725051033065"><field name="id">ETHNO:afroamericanpeoplesoftheamericas</field><field name="name">Afro-American peoples of the Americas</field></doc>
+<doc boost="4.941511432634403"><field name="id">ETHNO:agaw</field><field name="name">Agaw</field></doc>
+<doc boost="5.3979400086720375"><field name="id">ETHNO:anyipeople</field><field name="name">Anyi people</field></doc>
+<doc boost="3.4771212547196626"><field name="id">ETHNO:aguls</field><field name="name">Aguls</field></doc>
+<doc boost="1.6989700043360187"><field name="id">ETHNO:ahtna</field><field name="name">Ahtna</field></doc>
+<doc boost="5.204119982655925"><field name="id">ETHNO:aimaq</field><field name="name">Aimaq</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:aynu</field><field name="name">Aynu</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:aja</field><field name="name">Aja</field></doc>
+<doc boost="3.4771212547196626"><field name="id">ETHNO:aka</field><field name="name">Aka</field></doc>
+<doc boost="2.716003343634799"><field name="id">ETHNO:akie</field><field name="name">Akie</field></doc>
+<doc boost="1.8864907251724818"><field name="id">ETHNO:akchin</field><field name="name">Ak Chin</field></doc>
+<doc boost="6.301029995663981"><field name="id">ETHNO:akan</field><field name="name">Akan</field></doc>
+<doc boost="4.653212513775344"><field name="id">ETHNO:akha</field><field name="name">Akha</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:akuapem</field><field name="name">Akuapem</field></doc>
+<doc boost="2.9030899869919438"><field name="id">ETHNO:akhvakhpeople</field><field name="name">Akhvakh people</field></doc>
+<doc boost="5.6020599913279625"><field name="id">ETHNO:akyem</field><field name="name">Akyem</field></doc>
+<doc boost="2.1760912590556813"><field name="id">ETHNO:alabama</field><field name="name">Alabama</field></doc>
+<doc boost="2.6020599913279625"><field name="id">ETHNO:alak</field><field name="name">Alak</field></doc>
+<doc boost="5.845098040014257"><field name="id">ETHNO:albanians</field><field name="name">Albanians</field></doc>
+<doc boost="3.255272505103306"><field name="id">ETHNO:aleut</field><field name="name">Aleut</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:algonquian</field><field name="name">Algonquian</field></doc>
+<doc boost="3.3010299956639813"><field name="id">ETHNO:aliutors</field><field name="name">Aliutors</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:alsatians</field><field name="name">Alsatians</field></doc>
+<doc boost="4.56466606425209"><field name="id">ETHNO:altaians</field><field name="name">Altaians</field></doc>
+<doc boost="1.6989700043360187"><field name="id">ETHNO:amahuaca</field><field name="name">Amahuaca</field></doc>
+<doc boost="6.305351369446623"><field name="id">ETHNO:americans</field><field name="name">Americans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:amerasians</field><field name="name">Amerasians</field></doc>
+<doc boost="5.176091259055681"><field name="id">ETHNO:americoliberians</field><field name="name">Americo-Liberians</field></doc>
+<doc boost="6.301029995663981"><field name="id">ETHNO:amhara</field><field name="name">Amhara</field></doc>
+<doc boost="4.3979400086720375"><field name="id">ETHNO:amish</field><field name="name">Amish</field></doc>
+<doc boost="3.113943352306837"><field name="id">ETHNO:amungme</field><field name="name">Amungme</field></doc>
+<doc boost="6.243038048686294"><field name="id">ETHNO:andalusians</field><field name="name">Andalusians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:andis</field><field name="name">Andis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:anga</field><field name="name">Anga</field></doc>
+<doc boost="3.716003343634799"><field name="id">ETHNO:angloburmese</field><field name="name">Anglo-Burmese</field></doc>
+<doc boost="6.113943352306837"><field name="id">ETHNO:anglocelticaustralian</field><field name="name">Anglo-Celtic Australian</field></doc>
+<doc boost="6.886490725172482"><field name="id">ETHNO:annamites</field><field name="name">Annamites</field></doc>
+<doc boost="5.6020599913279625"><field name="id">ETHNO:alawites</field><field name="name">Alawites</field></doc>
+<doc boost="4.544068044350276"><field name="id">ETHNO:anuak</field><field name="name">Anuak</field></doc>
+<doc boost="3.7481880270062002"><field name="id">ETHNO:apaches</field><field name="name">Apaches</field></doc>
+<doc boost="2.2648178230095364"><field name="id">ETHNO:apinaje</field><field name="name">Apinaje</field></doc>
+<doc boost="7.625312450961673"><field name="id">ETHNO:arabs</field><field name="name">Arabs</field></doc>
+<doc boost="5.106350709990751"><field name="id">ETHNO:aragonese</field><field name="name">Aragonese</field></doc>
+<doc boost="2.6989700043360187"><field name="id">ETHNO:arapaho</field><field name="name">Arapaho</field></doc>
+<doc boost="4.653212513775344"><field name="id">ETHNO:arawak</field><field name="name">Arawak</field></doc>
+<doc boost="4.0"><field name="id">ETHNO:arbresh</field><field name="name">Arbëreshë</field></doc>
+<doc boost="2.0791812460476247"><field name="id">ETHNO:archis</field><field name="name">Archis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:arikara</field><field name="name">Arikara</field></doc>
+<doc boost="5.903089986991944"><field name="id">ETHNO:armenians</field><field name="name">Armenians</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:aromanians</field><field name="name">Aromanians</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:arvanites</field><field name="name">Arvanites</field></doc>
+<doc boost="7.0"><field name="id">ETHNO:ashkenazijews</field><field name="name">Ashkenazi Jews</field></doc>
+<doc boost="6.230448921378274"><field name="id">ETHNO:assyrians</field><field name="name">Assyrians</field></doc>
+<doc boost="4.778151250383644"><field name="id">ETHNO:atoni</field><field name="name">Atoni</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:asante</field><field name="name">Asante</field></doc>
+<doc boost="6.260211914395539"><field name="id">ETHNO:asianamerican</field><field name="name">Asian American</field></doc>
+<doc boost="4.3979400086720375"><field name="id">ETHNO:asheninka</field><field name="name">Asheninka</field></doc>
+<doc boost="3.845098040014257"><field name="id">ETHNO:asmat</field><field name="name">Asmat</field></doc>
+<doc boost="2.5440680443502757"><field name="id">ETHNO:assiniboine</field><field name="name">Assiniboine</field></doc>
+<doc boost="5.032171344121746"><field name="id">ETHNO:asturians</field><field name="name">Asturians</field></doc>
+<doc boost="2.3010299956639813"><field name="id">ETHNO:atacameno</field><field name="name">Atacameno</field></doc>
+<doc boost="2.3010299956639813"><field name="id">ETHNO:ati</field><field name="name">Ati</field></doc>
+<doc boost="2.6532125137753435"><field name="id">ETHNO:atikamekw</field><field name="name">Atikamekw</field></doc>
+<doc boost="2.5658478186735176"><field name="id">ETHNO:atsina</field><field name="name">Atsina</field></doc>
+<doc boost="1.9294189257142926"><field name="id">ETHNO:atsugewi</field><field name="name">Atsugewi</field></doc>
+<doc boost="4.477121254719663"><field name="id">ETHNO:aukstaitians</field><field name="name">Aukstaitians</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:austrians</field><field name="name">Austrians</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:avars</field><field name="name">Avars</field></doc>
+<doc boost="1.4771212547196624"><field name="id">ETHNO:aw</field><field name="name">Awá</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:aymaras</field><field name="name">Aymaras</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ayrums</field><field name="name">Ayrums</field></doc>
+<doc boost="7.342422680822207"><field name="id">ETHNO:azerbaijanis</field><field name="name">Azerbaijanis</field></doc>
+<doc boost="5.176091259055681"><field name="id">ETHNO:aztecs</field><field name="name">Aztecs</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:babongo</field><field name="name">Babongo</field></doc>
+<doc boost="4.778151250383644"><field name="id">ETHNO:bahrainis</field><field name="name">Bahrainis</field></doc>
+<doc boost="3.6989700043360187"><field name="id">ETHNO:badui</field><field name="name">Badui</field></doc>
+<doc boost="4.24167097378413"><field name="id">ETHNO:bana</field><field name="name">Ba Na</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:baggara</field><field name="name">Baggara</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:baguirmi</field><field name="name">Baguirmi</field></doc>
+<doc boost="2.484299839346786"><field name="id">ETHNO:bagulals</field><field name="name">Bagulals</field></doc>
+<doc boost="5.269059734010791"><field name="id">ETHNO:bai</field><field name="name">Bai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:bai</field><field name="name">Bai</field></doc>
+<doc boost="4.6040099324122306"><field name="id">ETHNO:bajau</field><field name="name">Bajau</field></doc>
+<doc boost="3.6989700043360187"><field name="id">ETHNO:baka</field><field name="name">Baka</field></doc>
+<doc boost="5.041392685158225"><field name="id">ETHNO:bakhtiari</field><field name="name">Bakhtiari</field></doc>
+<doc boost="5.477121254719663"><field name="id">ETHNO:balinese</field><field name="name">Balinese</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:bakongo</field><field name="name">Bakongo</field></doc>
+<doc boost="4.041392685158225"><field name="id">ETHNO:balkars</field><field name="name">Balkars</field></doc>
+<doc boost="7.3979400086720375"><field name="id">ETHNO:balochs</field><field name="name">Balochs</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:balticgermans</field><field name="name">Baltic Germans</field></doc>
+<doc boost="6.477121254719663"><field name="id">ETHNO:bamar</field><field name="name">Bamar</field></doc>
+<doc boost="5.431363764158987"><field name="id">ETHNO:bambara</field><field name="name">Bambara</field></doc>
+<doc boost="5.6020599913279625"><field name="id">ETHNO:bamileke</field><field name="name">Bamileke</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:banatswabians</field><field name="name">Banat Swabians</field></doc>
+<doc boost="1.1760912590556813"><field name="id">ETHNO:banawa</field><field name="name">Banawa</field></doc>
+<doc boost="5.113943352306837"><field name="id">ETHNO:banda</field><field name="name">Banda</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:bandjabi</field><field name="name">Bandjabi</field></doc>
+<doc boost="5.681241237375588"><field name="id">ETHNO:banjar</field><field name="name">Banjar</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:baoule</field><field name="name">Baoule</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:bapou</field><field name="name">Bapou</field></doc>
+<doc boost="6.301029995663981"><field name="id">ETHNO:barakzai</field><field name="name">Barakzai</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:bariba</field><field name="name">Bariba</field></doc>
+<doc boost="2.4771212547196626"><field name="id">ETHNO:bartangs</field><field name="name">Bartangs</field></doc>
+<doc boost="3.9542425094393248"><field name="id">ETHNO:basarwa</field><field name="name">Basarwa</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:bashkirs</field><field name="name">Bashkirs</field></doc>
+<doc boost="5.633468455579586"><field name="id">ETHNO:basotho</field><field name="name">Basotho</field></doc>
+<doc boost="5.414973347970818"><field name="id">ETHNO:basques</field><field name="name">Basques</field></doc>
+<doc boost="4.544068044350276"><field name="id">ETHNO:bassa</field><field name="name">Bassa</field></doc>
+<doc boost="4.0"><field name="id">ETHNO:bassari</field><field name="name">Bassari</field></doc>
+<doc boost="3.401055725771844"><field name="id">ETHNO:baster</field><field name="name">Baster</field></doc>
+<doc boost="5.778151250383644"><field name="id">ETHNO:batak</field><field name="name">Batak</field></doc>
+<doc boost="1.6989700043360187"><field name="id">ETHNO:batak</field><field name="name">Batak</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:bateke</field><field name="name">Bateke</field></doc>
+<doc boost="2.4771212547196626"><field name="id">ETHNO:bats</field><field name="name">Bats</field></doc>
+<doc boost="5.5910646070264995"><field name="id">ETHNO:batswana</field><field name="name">Batswana</field></doc>
+<doc boost="6.098017613813446"><field name="id">ETHNO:bavarians</field><field name="name">Bavarians</field></doc>
+<doc boost="6.903089986991944"><field name="id">ETHNO:bedouins</field><field name="name">Bedouins</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:beja</field><field name="name">Beja</field></doc>
+<doc boost="5.954242509439325"><field name="id">ETHNO:belarusians</field><field name="name">Belarusians</field></doc>
+<doc boost="7.477121254719663"><field name="id">ETHNO:bengalis</field><field name="name">Bengalis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:bemba</field><field name="name">Bemba</field></doc>
+<doc boost="3.8129133566428557"><field name="id">ETHNO:beneisrael</field><field name="name">Bene Israel</field></doc>
+<doc boost="6.698970004336019"><field name="id">ETHNO:berbers</field><field name="name">Berbers</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:berom</field><field name="name">Berom</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:betamaribe</field><field name="name">Betamaribe</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:bethio</field><field name="name">Bethio</field></doc>
+<doc boost="5.521138083704036"><field name="id">ETHNO:betipahuin</field><field name="name">Beti-Pahuin</field></doc>
+<doc boost="2.791690649020118"><field name="id">ETHNO:bezhtas</field><field name="name">Bezhtas</field></doc>
+<doc boost="6.113943352306837"><field name="id">ETHNO:bhil</field><field name="name">Bhil</field></doc>
+<doc boost="3.4350476413399647"><field name="id">ETHNO:bhotiya</field><field name="name">Bhotiya</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:biafadapeople</field><field name="name">Biafada people</field></doc>
+<doc boost="5.770852011642144"><field name="id">ETHNO:bicolano</field><field name="name">Bicolano</field></doc>
+<doc boost="7.021189299069938"><field name="id">ETHNO:biharis</field><field name="name">Biharis</field></doc>
+<doc boost="3.505149978319906"><field name="id">ETHNO:blackfeet</field><field name="name">Blackfeet</field></doc>
+<doc boost="5.176091259055681"><field name="id">ETHNO:blackbritish</field><field name="name">Black British</field></doc>
+<doc boost="4.260071387985075"><field name="id">ETHNO:blackindians</field><field name="name">Black Indians</field></doc>
+<doc boost="5.4623979978989565"><field name="id">ETHNO:bouyei</field><field name="name">Bouyei</field></doc>
+<doc boost="5.079181246047625"><field name="id">ETHNO:bodo</field><field name="name">Bodo</field></doc>
+<doc boost="3.1760912590556813"><field name="id">ETHNO:bonairean</field><field name="name">Bonairean</field></doc>
+<doc boost="3.230448921378274"><field name="id">ETHNO:bonan</field><field name="name">Bonan</field></doc>
+<doc boost="5.477121254719663"><field name="id">ETHNO:bosniaks</field><field name="name">Bosniaks</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:botlikhs</field><field name="name">Botlikhs</field></doc>
+<doc boost="1.2304489213782739"><field name="id">ETHNO:bougainvilleans</field><field name="name">Bougainvilleans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:boyar</field><field name="name">Boyar</field></doc>
+<doc boost="1.591064607026499"><field name="id">ETHNO:boyko</field><field name="name">Boyko</field></doc>
+<doc boost="4.120902817614527"><field name="id">ETHNO:bozo</field><field name="name">Bozo</field></doc>
+<doc boost="5.402777069610347"><field name="id">ETHNO:brahui</field><field name="name">Brahui</field></doc>
+<doc boost="1.4913616938342726"><field name="id">ETHNO:brau</field><field name="name">Brau</field></doc>
+<doc boost="6.095796096949637"><field name="id">ETHNO:bretons</field><field name="name">Bretons</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:brul</field><field name="name">Brulé</field></doc>
+<doc boost="4.112437417321844"><field name="id">ETHNO:bruvankieu</field><field name="name">Bru-Van Kieu</field></doc>
+<doc boost="3.806179973983887"><field name="id">ETHNO:bubi</field><field name="name">Bubi</field></doc>
+<doc boost="2.0"><field name="id">ETHNO:budukhs</field><field name="name">Budukhs</field></doc>
+<doc boost="5.778151250383644"><field name="id">ETHNO:bugis</field><field name="name">Bugis</field></doc>
+<doc boost="3.963787827345555"><field name="id">ETHNO:bulang</field><field name="name">Bulang</field></doc>
+<doc boost="6.954242509439325"><field name="id">ETHNO:bulgarians</field><field name="name">Bulgarians</field></doc>
+<doc boost="3.3326404103874627"><field name="id">ETHNO:bunjevci</field><field name="name">Bunjevci</field></doc>
+<doc boost="3.6989700043360187"><field name="id">ETHNO:burgenlandcroats</field><field name="name">Burgenland Croats</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:buryats</field><field name="name">Buryats</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:bushongo</field><field name="name">Bushongo</field></doc>
+<doc boost="2.7596678446896306"><field name="id">ETHNO:caddo</field><field name="name">Caddo</field></doc>
+<doc boost="2.103803720955957"><field name="id">ETHNO:cahuilla</field><field name="name">Cahuilla</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:caingang</field><field name="name">Caingang</field></doc>
+<doc boost="4.688900128071343"><field name="id">ETHNO:cajun</field><field name="name">Cajun</field></doc>
+<doc boost="3.855640280890145"><field name="id">ETHNO:caldoche</field><field name="name">Caldoche</field></doc>
+<doc boost="5.477121254719663"><field name="id">ETHNO:californio</field><field name="name">Californio</field></doc>
+<doc boost="4.3979400086720375"><field name="id">ETHNO:campa</field><field name="name">Campa</field></doc>
+<doc boost="5.189661527285177"><field name="id">ETHNO:canarians</field><field name="name">Canarians</field></doc>
+<doc boost="6.819543935541868"><field name="id">ETHNO:cantonese</field><field name="name">Cantonese</field></doc>
+<doc boost="5.65703576388121"><field name="id">ETHNO:capecoloured</field><field name="name">Cape Coloured</field></doc>
+<doc boost="4.301029995663981"><field name="id">ETHNO:capemalay</field><field name="name">Cape Malay</field></doc>
+<doc boost="5.812913356642856"><field name="id">ETHNO:castilians</field><field name="name">Castilians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:caprivian</field><field name="name">Caprivian</field></doc>
+<doc boost="2.4771212547196626"><field name="id">ETHNO:caribs</field><field name="name">Caribs</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:carinthianslovenes</field><field name="name">Carinthian Slovenes</field></doc>
+<doc boost="5.903089986991944"><field name="id">ETHNO:catalans</field><field name="name">Catalans</field></doc>
+<doc boost="2.4149733479708178"><field name="id">ETHNO:catawba</field><field name="name">Catawba</field></doc>
+<doc boost="3.934498451243568"><field name="id">ETHNO:cayuga</field><field name="name">Cayuga</field></doc>
+<doc boost="6.301029995663981"><field name="id">ETHNO:cebuano</field><field name="name">Cebuano</field></doc>
+<doc boost="5.2552725051033065"><field name="id">ETHNO:ceylonmoors</field><field name="name">Ceylon Moors</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:chagga</field><field name="name">Chagga</field></doc>
+<doc boost="4.6020599913279625"><field name="id">ETHNO:cham</field><field name="name">Cham</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:chambri</field><field name="name">Chambri</field></doc>
+<doc boost="2.6989700043360187"><field name="id">ETHNO:chamalals</field><field name="name">Chamalals</field></doc>
+<doc boost="4.247973266361806"><field name="id">ETHNO:chamorro</field><field name="name">Chamorro</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:champenois</field><field name="name">Champenois</field></doc>
+<doc boost="5.230448921378274"><field name="id">ETHNO:chechens</field><field name="name">Chechens</field></doc>
+<doc boost="1.8388490907372552"><field name="id">ETHNO:chehalis</field><field name="name">Chehalis</field></doc>
+<doc boost="1.7781512503836436"><field name="id">ETHNO:chemehuevi</field><field name="name">Chemehuevi</field></doc>
+<doc boost="3.7179200258369938"><field name="id">ETHNO:chepang</field><field name="name">Chepang</field></doc>
+<doc boost="4.499742053124383"><field name="id">ETHNO:cherokee</field><field name="name">Cherokee</field></doc>
+<doc boost="3.1950689964685903"><field name="id">ETHNO:cheyenne</field><field name="name">Cheyenne</field></doc>
+<doc boost="6.5009085345095095"><field name="id">ETHNO:chicanos</field><field name="name">Chicanos</field></doc>
+<doc boost="1.9867717342662448"><field name="id">ETHNO:chickahominy</field><field name="name">Chickahominy</field></doc>
+<doc boost="3.57978359661681"><field name="id">ETHNO:chickasaw</field><field name="name">Chickasaw</field></doc>
+<doc boost="2.6127838567197355"><field name="id">ETHNO:chilcotin</field><field name="name">Chilcotin</field></doc>
+<doc boost="6.232850559257148"><field name="id">ETHNO:chileans</field><field name="name">Chileans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:chinookan</field><field name="name">Chinookan</field></doc>
+<doc boost="3.041392685158225"><field name="id">ETHNO:chipewyan</field><field name="name">Chipewyan</field></doc>
+<doc boost="4.341849824084752"><field name="id">ETHNO:chippewa</field><field name="name">Chippewa</field></doc>
+<doc boost="1.8573324964312685"><field name="id">ETHNO:chitimacha</field><field name="name">Chitimacha</field></doc>
+<doc boost="4.696356388733332"><field name="id">ETHNO:chitpavan</field><field name="name">Chitpavan</field></doc>
+<doc boost="3.3533390953113047"><field name="id">ETHNO:choro</field><field name="name">Cho Ro</field></doc>
+<doc boost="4.204119982655925"><field name="id">ETHNO:choctaw</field><field name="name">Choctaw</field></doc>
+<doc boost="2.4149733479708178"><field name="id">ETHNO:chukchansi</field><field name="name">Chukchansi</field></doc>
+<doc boost="3.1975562131535367"><field name="id">ETHNO:chukchis</field><field name="name">Chukchis</field></doc>
+<doc boost="1.8129133566428555"><field name="id">ETHNO:chulymtatars</field><field name="name">Chulym Tatars</field></doc>
+<doc boost="3.3010299956639813"><field name="id">ETHNO:chumash</field><field name="name">Chumash</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:chuncho</field><field name="name">Chuncho</field></doc>
+<doc boost="2.582063362911709"><field name="id">ETHNO:chut</field><field name="name">Chut</field></doc>
+<doc boost="3.7265642161622448"><field name="id">ETHNO:chuukesepeople</field><field name="name">Chuukese people</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:chuvash</field><field name="name">Chuvash</field></doc>
+<doc boost="1.7853298350107671"><field name="id">ETHNO:clayoquot</field><field name="name">Clayoquot</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:coalhuiltec</field><field name="name">Coalhuiltec</field></doc>
+<doc boost="4.2203957782315955"><field name="id">ETHNO:cohopeople</field><field name="name">Co Ho people</field></doc>
+<doc boost="3.789439684567179"><field name="id">ETHNO:cotupeople</field><field name="name">Co Tu people</field></doc>
+<doc boost="3.255272505103306"><field name="id">ETHNO:coastsalish</field><field name="name">Coast Salish</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:cochiti</field><field name="name">Cochiti</field></doc>
+<doc boost="1.9493900066449128"><field name="id">ETHNO:cocopah</field><field name="name">Cocopah</field></doc>
+<doc boost="2.3010299956639813"><field name="id">ETHNO:coeurdalene</field><field name="name">Coeur d'Alene</field></doc>
+<doc boost="2.419955748489758"><field name="id">ETHNO:coharie</field><field name="name">Coharie</field></doc>
+<doc boost="5.65703576388121"><field name="id">ETHNO:coloured</field><field name="name">Coloured</field></doc>
+<doc boost="1.505149978319906"><field name="id">ETHNO:colville</field><field name="name">Colville</field></doc>
+<doc boost="3.167317334748176"><field name="id">ETHNO:comanche</field><field name="name">Comanche</field></doc>
+<doc boost="4.90200289135073"><field name="id">ETHNO:comorian</field><field name="name">Comorian</field></doc>
+<doc boost="3.6020599913279625"><field name="id">ETHNO:cong</field><field name="name">Cong</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:congolesepeople</field><field name="name">Congolese people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:copper</field><field name="name">Copper</field></doc>
+<doc boost="7.0"><field name="id">ETHNO:copt</field><field name="name">Copt</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:coquille</field><field name="name">Coquille</field></doc>
+<doc boost="4.727785174182906"><field name="id">ETHNO:cornish</field><field name="name">Cornish</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:cornishamerican</field><field name="name">Cornish American</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:cornishaustralian</field><field name="name">Cornish Australian</field></doc>
+<doc boost="6.544068044350276"><field name="id">ETHNO:cossacks</field><field name="name">Cossacks</field></doc>
+<doc boost="3.1760912590556813"><field name="id">ETHNO:costanoan</field><field name="name">Costanoan</field></doc>
+<doc boost="2.1818435879447726"><field name="id">ETHNO:coushatta</field><field name="name">Coushatta</field></doc>
+<doc boost="2.6020599913279625"><field name="id">ETHNO:cowichan</field><field name="name">Cowichan</field></doc>
+<doc boost="2.3010299956639813"><field name="id">ETHNO:cowlitz</field><field name="name">Cowlitz</field></doc>
+<doc boost="4.301029995663981"><field name="id">ETHNO:cree</field><field name="name">Cree</field></doc>
+<doc boost="3.8543060418010806"><field name="id">ETHNO:creek</field><field name="name">Creek</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:crole</field><field name="name">Créole</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:creolebelizean</field><field name="name">Creole Belizean</field></doc>
+<doc boost="2.4771212547196626"><field name="id">ETHNO:crimeangermans</field><field name="name">Crimean Germans</field></doc>
+<doc boost="4.394801777162711"><field name="id">ETHNO:crimeantatars</field><field name="name">Crimean Tatars</field></doc>
+<doc boost="5.649546112038252"><field name="id">ETHNO:croats</field><field name="name">Croats</field></doc>
+<doc boost="3.0791812460476247"><field name="id">ETHNO:crow</field><field name="name">Crow</field></doc>
+<doc boost="6.051072218799317"><field name="id">ETHNO:cubans</field><field name="name">Cubans</field></doc>
+<doc boost="2.0"><field name="id">ETHNO:cupeo</field><field name="name">Cupeño</field></doc>
+<doc boost="4.152838509892218"><field name="id">ETHNO:curaaoan</field><field name="name">Curaçaoan</field></doc>
+<doc boost="5.060697840353612"><field name="id">ETHNO:greekcypriots</field><field name="name">Greek Cypriots</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:czechs</field><field name="name">Czechs</field></doc>
+<doc boost="3.6817837664678814"><field name="id">ETHNO:daasanach</field><field name="name">Daasanach</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:dadhich</field><field name="name">Dadhich</field></doc>
+<doc boost="6.176091259055681"><field name="id">ETHNO:dai</field><field name="name">Dai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:dakelh</field><field name="name">Dakelh</field></doc>
+<doc boost="4.230729844577681"><field name="id">ETHNO:unitedstates</field><field name="name">United States</field></doc>
+<doc boost="4.0"><field name="id">ETHNO:damara</field><field name="name">Damara</field></doc>
+<doc boost="5.698707611218248"><field name="id">ETHNO:danes</field><field name="name">Danes</field></doc>
+<doc boost="2.0"><field name="id">ETHNO:danezaa</field><field name="name">Danezaa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:danmin</field><field name="name">Danmin</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:darhad</field><field name="name">Darhad</field></doc>
+<doc boost="4.771587480881255"><field name="id">ETHNO:dargins</field><field name="name">Dargins</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:daribi</field><field name="name">Daribi</field></doc>
+<doc boost="4.121855182166855"><field name="id">ETHNO:daur</field><field name="name">Daur</field></doc>
+<doc boost="6.301029995663981"><field name="id">ETHNO:dayaks</field><field name="name">Dayaks</field></doc>
+<doc boost="4.745855195173729"><field name="id">ETHNO:deang</field><field name="name">De'ang</field></doc>
+<doc boost="1.3979400086720377"><field name="id">ETHNO:deghitan</field><field name="name">Deg Hit'an</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:degar</field><field name="name">Degar</field></doc>
+<doc boost="3.2041199826559246"><field name="id">ETHNO:delaware</field><field name="name">Delaware</field></doc>
+<doc boost="2.146128035678238"><field name="id">ETHNO:denaina</field><field name="name">Dena'ina</field></doc>
+<doc boost="4.291435454927122"><field name="id">ETHNO:dendi</field><field name="name">Dendi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:derbish</field><field name="name">Derbish</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:desana</field><field name="name">Desana</field></doc>
+<doc boost="4.6020599913279625"><field name="id">ETHNO:dhivehis</field><field name="name">Dhivehis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:dhodia</field><field name="name">Dhodia</field></doc>
+<doc boost="3.1832698436828046"><field name="id">ETHNO:didos</field><field name="name">Didos</field></doc>
+<doc boost="3.4771212547196626"><field name="id">ETHNO:diegueno</field><field name="name">Diegueno</field></doc>
+<doc boost="5.698970004336019"><field name="id">ETHNO:dinka</field><field name="name">Dinka</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:diola</field><field name="name">Diola</field></doc>
+<doc boost="5.6020599913279625"><field name="id">ETHNO:dogon</field><field name="name">Dogon</field></doc>
+<doc boost="2.8609366207000937"><field name="id">ETHNO:dolgans</field><field name="name">Dolgans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:doma</field><field name="name">Doma</field></doc>
+<doc boost="6.003891166236911"><field name="id">ETHNO:dominicans</field><field name="name">Dominicans</field></doc>
+<doc boost="5.150664353529561"><field name="id">ETHNO:dominicanamerican</field><field name="name">Dominican American</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:doncossacks</field><field name="name">Don Cossacks</field></doc>
+<doc boost="5.471334258096281"><field name="id">ETHNO:dong</field><field name="name">Dong</field></doc>
+<doc boost="4.710794099930327"><field name="id">ETHNO:dongxiang</field><field name="name">Dongxiang</field></doc>
+<doc boost="3.4471580313422194"><field name="id">ETHNO:dorze</field><field name="name">Dorze</field></doc>
+<doc boost="2.845098040014257"><field name="id">ETHNO:drung</field><field name="name">Drung</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:druze</field><field name="name">Druze</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:dupeople</field><field name="name">Du people</field></doc>
+<doc boost="4.6020599913279625"><field name="id">ETHNO:dualapeople</field><field name="name">Duala people</field></doc>
+<doc boost="4.041392685158225"><field name="id">ETHNO:dungan</field><field name="name">Dungan</field></doc>
+<doc boost="6.236254525386108"><field name="id">ETHNO:dutch</field><field name="name">Dutch</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:dyula</field><field name="name">Dyula</field></doc>
+<doc boost="5.146128035678238"><field name="id">ETHNO:ebira</field><field name="name">Ebira</field></doc>
+<doc boost="6.217483944213907"><field name="id">ETHNO:ecuadorian</field><field name="name">Ecuadorian</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:elema</field><field name="name">Elema</field></doc>
+<doc boost="1.3617278360175928"><field name="id">ETHNO:enets</field><field name="name">Enets</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:enga</field><field name="name">Enga</field></doc>
+<doc boost="7.0"><field name="id">ETHNO:english</field><field name="name">English</field></doc>
+<doc boost="3.230448921378274"><field name="id">ETHNO:enxet</field><field name="name">Enxet</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:eshira</field><field name="name">Eshira</field></doc>
+<doc boost="5.041392685158225"><field name="id">ETHNO:estonians</field><field name="name">Estonians</field></doc>
+<doc boost="7.365473701609055"><field name="id">ETHNO:europeanamericans</field><field name="name">European Americans</field></doc>
+<doc boost="3.3010299956639813"><field name="id">ETHNO:evens</field><field name="name">Evens</field></doc>
+<doc boost="3.8260748027008264"><field name="id">ETHNO:evenki</field><field name="name">Evenki</field></doc>
+<doc boost="5.681241237375588"><field name="id">ETHNO:ewe</field><field name="name">Ewe</field></doc>
+<doc boost="5.096910013008056"><field name="id">ETHNO:falasha</field><field name="name">Falasha</field></doc>
+<doc boost="5.477121254719663"><field name="id">ETHNO:fante</field><field name="name">Fante</field></doc>
+<doc boost="4.903089986991944"><field name="id">ETHNO:faroese</field><field name="name">Faroese</field></doc>
+<doc boost="6.707570176097937"><field name="id">ETHNO:persians</field><field name="name">Persians</field></doc>
+<doc boost="5.698970004336019"><field name="id">ETHNO:fereydan</field><field name="name">Fereydan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:fernandinos</field><field name="name">Fernandinos</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:fijian</field><field name="name">Fijian</field></doc>
+<doc boost="5.732393759822968"><field name="id">ETHNO:finns</field><field name="name">Finns</field></doc>
+<doc boost="5.794488046659169"><field name="id">ETHNO:flemish</field><field name="name">Flemish</field></doc>
+<doc boost="2.271841606536499"><field name="id">ETHNO:westflemings</field><field name="name">West Flemings</field></doc>
+<doc boost="5.544068044350276"><field name="id">ETHNO:fon</field><field name="name">Fon</field></doc>
+<doc boost="2.6020599913279625"><field name="id">ETHNO:fox</field><field name="name">Fox</field></doc>
+<doc boost="3.380211241711606"><field name="id">ETHNO:francomauritian</field><field name="name">Franco-Mauritian</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:runion</field><field name="name">Réunion</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:franconians</field><field name="name">Franconians</field></doc>
+<doc boost="8.02530586526477"><field name="id">ETHNO:french</field><field name="name">French</field></doc>
+<doc boost="5.176091259055681"><field name="id">ETHNO:frisians</field><field name="name">Frisians</field></doc>
+<doc boost="7.57978359661681"><field name="id">ETHNO:fula</field><field name="name">Fula</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:fulnio</field><field name="name">Fulni-o</field></doc>
+<doc boost="4.871572935545879"><field name="id">ETHNO:fur</field><field name="name">Fur</field></doc>
+<doc boost="5.2552725051033065"><field name="id">ETHNO:gaadangbe</field><field name="name">Ga-Adangbe</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:gaddi</field><field name="name">Gaddi</field></doc>
+<doc boost="5.22796122212552"><field name="id">ETHNO:gaels</field><field name="name">Gaels</field></doc>
+<doc boost="4.380211241711606"><field name="id">ETHNO:gagauz</field><field name="name">Gagauz</field></doc>
+<doc boost="5.444528811317135"><field name="id">ETHNO:galicians</field><field name="name">Galicians</field></doc>
+<doc boost="4.6985354925620015"><field name="id">ETHNO:gaoshan</field><field name="name">Gaoshan</field></doc>
+<doc boost="4.778151250383644"><field name="id">ETHNO:garifunagarinagu</field><field name="name">Garifuna/Garinagu</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:garo</field><field name="name">Garo</field></doc>
+<doc boost="4.986771734266245"><field name="id">ETHNO:gbaya</field><field name="name">Gbaya</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ge</field><field name="name">Ge</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:gebaburu</field><field name="name">Geba Buru</field></doc>
+<doc boost="4.740362689494244"><field name="id">ETHNO:gelao</field><field name="name">Gelao</field></doc>
+<doc boost="5.597256282925142"><field name="id">ETHNO:georgian</field><field name="name">Georgian</field></doc>
+<doc boost="7.176091259055681"><field name="id">ETHNO:germans</field><field name="name">Germans</field></doc>
+<doc boost="4.521856952170169"><field name="id">ETHNO:giarai</field><field name="name">Gia Rai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:giay</field><field name="name">Giay</field></doc>
+<doc boost="3.6020599913279625"><field name="id">ETHNO:gibraltarians</field><field name="name">Gibraltarians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:gietrieng</field><field name="name">Gie Trieng</field></doc>
+<doc boost="2.4771212547196626"><field name="id">ETHNO:godoberis</field><field name="name">Godoberis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:gogodali</field><field name="name">Gogodali</field></doc>
+<doc boost="2.322219294733919"><field name="id">ETHNO:gongduk</field><field name="name">Gongduk</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:gorals</field><field name="name">Gorals</field></doc>
+<doc boost="4.1444496608689"><field name="id">ETHNO:gorani</field><field name="name">Gorani</field></doc>
+<doc boost="1.6532125137753437"><field name="id">ETHNO:goshute</field><field name="name">Goshute</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:gotlanders</field><field name="name">Gotlanders</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:goulaye</field><field name="name">Goulaye</field></doc>
+<doc boost="7.146128035678238"><field name="id">ETHNO:greeks</field><field name="name">Greeks</field></doc>
+<doc boost="6.301029995663981"><field name="id">ETHNO:griqua</field><field name="name">Griqua</field></doc>
+<doc boost="2.5658478186735176"><field name="id">ETHNO:grosventre</field><field name="name">Gros Ventre</field></doc>
+<doc boost="4.2552725051033065"><field name="id">ETHNO:gruzinim</field><field name="name">Gruzinim</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:guadeloupean</field><field name="name">Guadeloupean</field></doc>
+<doc boost="3.2893659515200318"><field name="id">ETHNO:guajajara</field><field name="name">Guajajara</field></doc>
+<doc boost="4.410608542568368"><field name="id">ETHNO:guarani</field><field name="name">Guarani</field></doc>
+<doc boost="7.812913356642856"><field name="id">ETHNO:gujaratis</field><field name="name">Gujaratis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:gullah</field><field name="name">Gullah</field></doc>
+<doc boost="5.2712303774230085"><field name="id">ETHNO:gurage</field><field name="name">Gurage</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:guria</field><field name="name">Guria</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:guru</field><field name="name">Guru</field></doc>
+<doc boost="4.735255479712433"><field name="id">ETHNO:gurung</field><field name="name">Gurung</field></doc>
+<doc boost="2.0"><field name="id">ETHNO:hadza</field><field name="name">Hadza</field></doc>
+<doc boost="2.3010299956639813"><field name="id">ETHNO:haida</field><field name="name">Haida</field></doc>
+<doc boost="6.005342698929504"><field name="id">ETHNO:haitian</field><field name="name">Haitian</field></doc>
+<doc boost="6.903089986991944"><field name="id">ETHNO:hakka</field><field name="name">Hakka</field></doc>
+<doc boost="2.57978359661681"><field name="id">ETHNO:haliwasaponi</field><field name="name">Haliwa-Saponi</field></doc>
+<doc boost="3.6317480743965693"><field name="id">ETHNO:hamar</field><field name="name">Hamar</field></doc>
+<doc boost="4.845098040014257"><field name="id">ETHNO:hamshenis</field><field name="name">Hamshenis</field></doc>
+<doc boost="8.117323954813077"><field name="id">ETHNO:hanchinese</field><field name="name">Han Chinese</field></doc>
+<doc boost="5.176091259055681"><field name="id">ETHNO:hani</field><field name="name">Hani</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:hasani</field><field name="name">Hasani</field></doc>
+<doc boost="6.6020599913279625"><field name="id">ETHNO:hausa</field><field name="name">Hausa</field></doc>
+<doc boost="1.8750612633917"><field name="id">ETHNO:havasupai</field><field name="name">Havasupai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:haw</field><field name="name">Haw</field></doc>
+<doc boost="4.217246991685393"><field name="id">ETHNO:hawaiian</field><field name="name">Hawaiian</field></doc>
+<doc boost="4.721868297555803"><field name="id">ETHNO:hapa</field><field name="name">Hapa</field></doc>
+<doc boost="5.838849090737256"><field name="id">ETHNO:hazara</field><field name="name">Hazara</field></doc>
+<doc boost="4.380211241711606"><field name="id">ETHNO:herero</field><field name="name">Herero</field></doc>
+<doc boost="1.8325089127062364"><field name="id">ETHNO:hesquiat</field><field name="name">Hesquiat</field></doc>
+<doc boost="3.255272505103306"><field name="id">ETHNO:hezhen</field><field name="name">Hezhen</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:hidatsa</field><field name="name">Hidatsa</field></doc>
+<doc boost="4.301029995663981"><field name="id">ETHNO:himba</field><field name="name">Himba</field></doc>
+<doc boost="4.1303337684950066"><field name="id">ETHNO:hindoestanen</field><field name="name">Hindoestanen</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:hindipeople</field><field name="name">Hindi people</field></doc>
+<doc boost="1.6434526764861874"><field name="id">ETHNO:hinukhs</field><field name="name">Hinukhs</field></doc>
+<doc boost="6.697665162647675"><field name="id">ETHNO:hispanic</field><field name="name">Hispanic</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:hmar</field><field name="name">Hmar</field></doc>
+<doc boost="6.6020599913279625"><field name="id">ETHNO:hmong</field><field name="name">Hmong</field></doc>
+<doc boost="4.9154367724187695"><field name="id">ETHNO:hoa</field><field name="name">Hoa</field></doc>
+<doc boost="2.845098040014257"><field name="id">ETHNO:hochunk</field><field name="name">Ho-Chunk</field></doc>
+<doc boost="0.9030899869919435"><field name="id">ETHNO:hoh</field><field name="name">Hoh</field></doc>
+<doc boost="6.778151250383644"><field name="id">ETHNO:hoklo</field><field name="name">Hoklo</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:holikachuk</field><field name="name">Holikachuk</field></doc>
+<doc boost="3.2629254693318317"><field name="id">ETHNO:hopi</field><field name="name">Hopi</field></doc>
+<doc boost="3.0346284566253203"><field name="id">ETHNO:houma</field><field name="name">Houma</field></doc>
+<doc boost="4.053501002386415"><field name="id">ETHNO:hre</field><field name="name">H're</field></doc>
+<doc boost="2.292256071356476"><field name="id">ETHNO:hualapai</field><field name="name">Hualapai</field></doc>
+<doc boost="3.8195439355418688"><field name="id">ETHNO:huastec</field><field name="name">Huastec</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:huipeople</field><field name="name">Hui people</field></doc>
+<doc boost="3.6426623314420357"><field name="id">ETHNO:huichol</field><field name="name">Huichol</field></doc>
+<doc boost="7.12057393120585"><field name="id">ETHNO:hungarians</field><field name="name">Hungarians</field></doc>
+<doc boost="3.9395192526186187"><field name="id">ETHNO:hunzakuts</field><field name="name">Hunzakuts</field></doc>
+<doc boost="4.133538908370218"><field name="id">ETHNO:huli</field><field name="name">Huli</field></doc>
+<doc boost="2.2648178230095364"><field name="id">ETHNO:hunzibs</field><field name="name">Hunzibs</field></doc>
+<doc boost="2.330413773349191"><field name="id">ETHNO:hupa</field><field name="name">Hupa</field></doc>
+<doc boost="2.949390006644913"><field name="id">ETHNO:huron</field><field name="name">Huron</field></doc>
+<doc boost="3.419790586106363"><field name="id">ETHNO:hutsuls</field><field name="name">Hutsuls</field></doc>
+<doc boost="6.060697840353612"><field name="id">ETHNO:hutu</field><field name="name">Hutu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:hyksos</field><field name="name">Hyksos</field></doc>
+<doc boost="4.53552196990297"><field name="id">ETHNO:iatmul</field><field name="name">Iatmul</field></doc>
+<doc boost="4.778151250383644"><field name="id">ETHNO:iban</field><field name="name">Iban</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:ibanag</field><field name="name">Ibanag</field></doc>
+<doc boost="5.651471852199043"><field name="id">ETHNO:ibibio</field><field name="name">Ibibio</field></doc>
+<doc boost="4.653212513775344"><field name="id">ETHNO:icelanders</field><field name="name">Icelanders</field></doc>
+<doc boost="6.477121254719663"><field name="id">ETHNO:igbo</field><field name="name">Igbo</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:igorot</field><field name="name">Igorot</field></doc>
+<doc boost="6.176091259055681"><field name="id">ETHNO:ijaw</field><field name="name">Ijaw</field></doc>
+<doc boost="4.014940349792936"><field name="id">ETHNO:ikiribati</field><field name="name">I-Kiribati</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:illiniwek</field><field name="name">Illiniwek</field></doc>
+<doc boost="5.960756090901773"><field name="id">ETHNO:ilocano</field><field name="name">Ilocano</field></doc>
+<doc boost="5.913813852383717"><field name="id">ETHNO:ilonggo</field><field name="name">Ilonggo</field></doc>
+<doc boost="4.845098040014257"><field name="id">ETHNO:imereti</field><field name="name">Imereti</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:inca</field><field name="name">Inca</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:indocaribbean</field><field name="name">Indo-Caribbean</field></doc>
+<doc boost="4.514547752660286"><field name="id">ETHNO:indoguyanese</field><field name="name">Indo-Guyanese</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:indojamaicans</field><field name="name">Indo-Jamaicans</field></doc>
+<doc boost="4.720159303405957"><field name="id">ETHNO:indotrinidadian</field><field name="name">Indo-Trinidadian</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ingessana</field><field name="name">Ingessana</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:ingushes</field><field name="name">Ingushes</field></doc>
+<doc boost="3.255272505103306"><field name="id">ETHNO:innu</field><field name="name">Innu</field></doc>
+<doc boost="4.176091259055681"><field name="id">ETHNO:inuit</field><field name="name">Inuit</field></doc>
+<doc boost="3.130333768495006"><field name="id">ETHNO:iupiat</field><field name="name">Iñupiat</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:irani</field><field name="name">Irani</field></doc>
+<doc boost="5.698970004336019"><field name="id">ETHNO:iraqiturkmens</field><field name="name">Iraqi Turkmens</field></doc>
+<doc boost="6.903089986991944"><field name="id">ETHNO:irish</field><field name="name">Irish</field></doc>
+<doc boost="4.096910013008056"><field name="id">ETHNO:iroquois</field><field name="name">Iroquois</field></doc>
+<doc boost="4.0"><field name="id">ETHNO:ishkashmis</field><field name="name">Ishkashmis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:isleta</field><field name="name">Isleta</field></doc>
+<doc boost="4.676693609624866"><field name="id">ETHNO:isoko</field><field name="name">Isoko</field></doc>
+<doc boost="2.0"><field name="id">ETHNO:istriot</field><field name="name">Istriot</field></doc>
+<doc boost="0.8450980400142568"><field name="id">ETHNO:istroromanians</field><field name="name">Istro-Romanians</field></doc>
+<doc boost="8.146128035678238"><field name="id">ETHNO:italians</field><field name="name">Italians</field></doc>
+<doc boost="2.503790683057181"><field name="id">ETHNO:itelmens</field><field name="name">Itelmens</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:itsekiri</field><field name="name">Itsekiri</field></doc>
+<doc boost="2.0"><field name="id">ETHNO:izhorians</field><field name="name">Izhorians</field></doc>
+<doc boost="4.672319568728537"><field name="id">ETHNO:jakaltekpeople</field><field name="name">Jakaltek people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:jakut</field><field name="name">Jakut</field></doc>
+<doc boost="3.0"><field name="id">ETHNO:janjevci</field><field name="name">Janjevci</field></doc>
+<doc boost="7.103803720955957"><field name="id">ETHNO:japanese</field><field name="name">Japanese</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:jassic</field><field name="name">Jassic</field></doc>
+<doc boost="6.978714585269052"><field name="id">ETHNO:javanese</field><field name="name">Javanese</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:jebala</field><field name="name">Jebala</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:jemez</field><field name="name">Jemez</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:jing</field><field name="name">Jing</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:jingpo</field><field name="name">Jingpo</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:jino</field><field name="name">Jino</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:jorcharias</field><field name="name">Jorcharias</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:jivaro</field><field name="name">Jivaro</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:jola</field><field name="name">Jola</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:jopadhola</field><field name="name">Jopadhola</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:jri</field><field name="name">Jri</field></doc>
+<doc boost="5.7160033436347994"><field name="id">ETHNO:kabarday</field><field name="name">Kabarday</field></doc>
+<doc boost="2.6127838567197355"><field name="id">ETHNO:kalash</field><field name="name">Kalash</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kale</field><field name="name">Kale</field></doc>
+<doc boost="5.696122138605587"><field name="id">ETHNO:kalenjin</field><field name="name">Kalenjin</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kallawaya</field><field name="name">Kallawaya</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kaliai</field><field name="name">Kaliai</field></doc>
+<doc boost="1.6020599913279623"><field name="id">ETHNO:kalispel</field><field name="name">Kalispel</field></doc>
+<doc boost="3.6989700043360187"><field name="id">ETHNO:kalaallit</field><field name="name">Kalaallit</field></doc>
+<doc boost="4.264817823009537"><field name="id">ETHNO:kalmyks</field><field name="name">Kalmyks</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kaluli</field><field name="name">Kaluli</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kamas</field><field name="name">Kamas</field></doc>
+<doc boost="1.662757831681574"><field name="id">ETHNO:kamayura</field><field name="name">Kamayura</field></doc>
+<doc boost="6.653212513775344"><field name="id">ETHNO:kannadiga</field><field name="name">Kannadiga</field></doc>
+<doc boost="4.816241299991783"><field name="id">ETHNO:kanembu</field><field name="name">Kanembu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kapauku</field><field name="name">Kapauku</field></doc>
+<doc boost="5.460897842756548"><field name="id">ETHNO:kapampangan</field><field name="name">Kapampangan</field></doc>
+<doc boost="4.477121254719663"><field name="id">ETHNO:karachay</field><field name="name">Karachay</field></doc>
+<doc boost="2.3010299956639813"><field name="id">ETHNO:karaims</field><field name="name">Karaims</field></doc>
+<doc boost="2.4771212547196626"><field name="id">ETHNO:karaj</field><field name="name">Karajá</field></doc>
+<doc boost="4.7160033436347994"><field name="id">ETHNO:karakalpaks</field><field name="name">Karakalpaks</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:karamojong</field><field name="name">Karamojong</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:karatas</field><field name="name">Karatas</field></doc>
+<doc boost="3.845098040014257"><field name="id">ETHNO:karelians</field><field name="name">Karelians</field></doc>
+<doc boost="5.954242509439325"><field name="id">ETHNO:karen</field><field name="name">Karen</field></doc>
+<doc boost="2.681241237375587"><field name="id">ETHNO:karok</field><field name="name">Karok</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:kashubians</field><field name="name">Kashubians</field></doc>
+<doc boost="3.9797304306622854"><field name="id">ETHNO:katang</field><field name="name">Katang</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:katuquina</field><field name="name">Katuquina</field></doc>
+<doc boost="4.301029995663981"><field name="id">ETHNO:kavango</field><field name="name">Kavango</field></doc>
+<doc boost="2.494154594018443"><field name="id">ETHNO:kaw</field><field name="name">Kaw</field></doc>
+<doc boost="2.9360107957152097"><field name="id">ETHNO:kayapo</field><field name="name">Kayapo</field></doc>
+<doc boost="6.133538908370218"><field name="id">ETHNO:kazakhs</field><field name="name">Kazakhs</field></doc>
+<doc boost="3.840419777736486"><field name="id">ETHNO:kenyah</field><field name="name">Kenyah</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:keresan</field><field name="name">Keresan</field></doc>
+<doc boost="2.2041199826559246"><field name="id">ETHNO:kets</field><field name="name">Kets</field></doc>
+<doc boost="3.9030899869919438"><field name="id">ETHNO:khakas</field><field name="name">Khakas</field></doc>
+<doc boost="3.141136090120739"><field name="id">ETHNO:khang</field><field name="name">Khang</field></doc>
+<doc boost="3.4471580313422194"><field name="id">ETHNO:khants</field><field name="name">Khants</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:khasia</field><field name="name">Khasia</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:khassonk</field><field name="name">Khassonké</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:khevi</field><field name="name">Khevi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:khevsureti</field><field name="name">Khevsureti</field></doc>
+<doc boost="2.315970345456918"><field name="id">ETHNO:khinalugs</field><field name="name">Khinalugs</field></doc>
+<doc boost="6.204119982655925"><field name="id">ETHNO:khmer</field><field name="name">Khmer</field></doc>
+<doc boost="4.732393759822968"><field name="id">ETHNO:khmu</field><field name="name">Khmu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:khomu</field><field name="name">Kho Mu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:khoikhoi</field><field name="name">Khoikhoi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:khomani</field><field name="name">Khomani</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:khufis</field><field name="name">Khufis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:khvarchis</field><field name="name">Khvarchis</field></doc>
+<doc boost="2.6989700043360187"><field name="id">ETHNO:kickapoo</field><field name="name">Kickapoo</field></doc>
+<doc boost="5.821054755046888"><field name="id">ETHNO:kky</field><field name="name">Kĩkũyũ</field></doc>
+<doc boost="6.886490725172482"><field name="id">ETHNO:kinh</field><field name="name">Kinh</field></doc>
+<doc boost="3.0791812460476247"><field name="id">ETHNO:kiowa</field><field name="name">Kiowa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:klallam</field><field name="name">Klallam</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:klamath</field><field name="name">Klamath</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:klikitat</field><field name="name">Klikitat</field></doc>
+<doc boost="4.477121254719663"><field name="id">ETHNO:knanaya</field><field name="name">Knanaya</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kolchan</field><field name="name">Kolchan</field></doc>
+<doc boost="4.220108088040055"><field name="id">ETHNO:kodava</field><field name="name">Kodava</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kombai</field><field name="name">Kombai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kogi</field><field name="name">Kogi</field></doc>
+<doc boost="4.469822015978163"><field name="id">ETHNO:komi</field><field name="name">Komi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:koniag</field><field name="name">Koniag</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:kongo</field><field name="name">Kongo</field></doc>
+<doc boost="2.296665190261531"><field name="id">ETHNO:kootenai</field><field name="name">Kootenai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:koptian</field><field name="name">Koptian</field></doc>
+<doc boost="6.903089986991944"><field name="id">ETHNO:korean</field><field name="name">Korean</field></doc>
+<doc boost="2.4771212547196626"><field name="id">ETHNO:korowai</field><field name="name">Korowai</field></doc>
+<doc boost="2.9449759084120477"><field name="id">ETHNO:koryaks</field><field name="name">Koryaks</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kosraean</field><field name="name">Kosraean</field></doc>
+<doc boost="2.7403626894942437"><field name="id">ETHNO:koskimo</field><field name="name">Koskimo</field></doc>
+<doc boost="2.361727836017593"><field name="id">ETHNO:koyukon</field><field name="name">Koyukon</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kozaks</field><field name="name">Kozaks</field></doc>
+<doc boost="5.086359830674748"><field name="id">ETHNO:kpelle</field><field name="name">Kpelle</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kraho</field><field name="name">Kraho</field></doc>
+<doc boost="2.6989700043360187"><field name="id">ETHNO:krashovans</field><field name="name">Krashovans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kri</field><field name="name">Kri</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kristang</field><field name="name">Kristang</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:krymchaks</field><field name="name">Krymchaks</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kubancossacks</field><field name="name">Kuban Cossacks</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kubu</field><field name="name">Kubu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kuikuru</field><field name="name">Kuikuru</field></doc>
+<doc boost="3.6989700043360187"><field name="id">ETHNO:kuna</field><field name="name">Kuna</field></doc>
+<doc boost="2.6989700043360187"><field name="id">ETHNO:kumeyaay</field><field name="name">Kumeyaay</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:kumyks</field><field name="name">Kumyks</field></doc>
+<doc boost="7.477121254719663"><field name="id">ETHNO:kurds</field><field name="name">Kurds</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kurubagowda</field><field name="name">Kuruba Gowda</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ktunaxa</field><field name="name">Ktunaxa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kwakiutl</field><field name="name">Kwakiutl</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:kwakwakawakw</field><field name="name">Kwakwaka'wakw</field></doc>
+<doc boost="5.653212513775344"><field name="id">ETHNO:kyrgyz</field><field name="name">Kyrgyz</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:lachi</field><field name="name">La Chi</field></doc>
+<doc boost="2.9122220565324155"><field name="id">ETHNO:laha</field><field name="name">La Ha</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:lahu</field><field name="name">Lahu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:laguna</field><field name="name">Laguna</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:laigain</field><field name="name">Laigain</field></doc>
+<doc boost="4.0"><field name="id">ETHNO:lakota</field><field name="name">Lakota</field></doc>
+<doc boost="4.2552725051033065"><field name="id">ETHNO:laks</field><field name="name">Laks</field></doc>
+<doc boost="3.342422680822206"><field name="id">ETHNO:lamet</field><field name="name">Lamet</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:langi</field><field name="name">Langi</field></doc>
+<doc boost="5.57978359661681"><field name="id">ETHNO:lao</field><field name="name">Lao</field></doc>
+<doc boost="4.365731271401678"><field name="id">ETHNO:laoamerican</field><field name="name">Lao American</field></doc>
+<doc boost="4.301029995663981"><field name="id">ETHNO:laosung</field><field name="name">Lao Sung</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:laotheung</field><field name="name">Lao Theung</field></doc>
+<doc boost="4.176091259055681"><field name="id">ETHNO:latgalians</field><field name="name">Latgalians</field></doc>
+<doc boost="5.217483944213907"><field name="id">ETHNO:latvians</field><field name="name">Latvians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:lavae</field><field name="name">Lavae</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:laven</field><field name="name">Laven</field></doc>
+<doc boost="2.041392685158225"><field name="id">ETHNO:layap</field><field name="name">Layap</field></doc>
+<doc boost="4.305351369446623"><field name="id">ETHNO:laz</field><field name="name">Laz</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:lazoi</field><field name="name">Lazoi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:lebou</field><field name="name">Lebou</field></doc>
+<doc boost="3.8195439355418688"><field name="id">ETHNO:lemkos</field><field name="name">Lemkos</field></doc>
+<doc boost="4.136720567156407"><field name="id">ETHNO:lenca</field><field name="name">Lenca</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:lengua</field><field name="name">Lengua</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:leonese</field><field name="name">Leonese</field></doc>
+<doc boost="4.954242509439325"><field name="id">ETHNO:lezgis</field><field name="name">Lezgis</field></doc>
+<doc boost="2.7481880270062002"><field name="id">ETHNO:lhoba</field><field name="name">Lhoba</field></doc>
+<doc boost="4.380211241711606"><field name="id">ETHNO:lhotshampa</field><field name="name">Lhotshampa</field></doc>
+<doc boost="5.164352855784437"><field name="id">ETHNO:li</field><field name="name">Li</field></doc>
+<doc boost="4.665580991017953"><field name="id">ETHNO:limbus</field><field name="name">Limbus</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:limburgish</field><field name="name">Limburgish</field></doc>
+<doc boost="4.0"><field name="id">ETHNO:lipkatatars</field><field name="name">Lipka Tatars</field></doc>
+<doc boost="3.5563025007672873"><field name="id">ETHNO:lipovans</field><field name="name">Lipovans</field></doc>
+<doc boost="5.079181246047625"><field name="id">ETHNO:lisu</field><field name="name">Lisu</field></doc>
+<doc boost="5.6020599913279625"><field name="id">ETHNO:lithuanians</field><field name="name">Lithuanians</field></doc>
+<doc boost="1.3010299956639813"><field name="id">ETHNO:livonians</field><field name="name">Livonians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:lolo</field><field name="name">Lo Lo</field></doc>
+<doc boost="4.204119982655925"><field name="id">ETHNO:lobi</field><field name="name">Lobi</field></doc>
+<doc boost="4.0"><field name="id">ETHNO:lotuko</field><field name="name">Lotuko</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:louisianacreolepeople</field><field name="name">Louisiana Creole people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:lozi</field><field name="name">Lozi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:lua</field><field name="name">Lua</field></doc>
+<doc boost="6.113943352306837"><field name="id">ETHNO:luba</field><field name="name">Luba</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:lue</field><field name="name">Lue</field></doc>
+<doc boost="5.785329835010767"><field name="id">ETHNO:luhya</field><field name="name">Luhya</field></doc>
+<doc boost="2.3979400086720375"><field name="id">ETHNO:luiseno</field><field name="name">Luiseno</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:lumad</field><field name="name">Lumad</field></doc>
+<doc boost="3.7403626894942437"><field name="id">ETHNO:lumbee</field><field name="name">Lumbee</field></doc>
+<doc boost="2.8188854145940097"><field name="id">ETHNO:lummi</field><field name="name">Lummi</field></doc>
+<doc boost="5.161368002234975"><field name="id">ETHNO:lunda</field><field name="name">Lunda</field></doc>
+<doc boost="3.5809249756756194"><field name="id">ETHNO:lunbawanglundayeh</field><field name="name">Lun Bawang/Lun Dayeh</field></doc>
+<doc boost="5.778151250383644"><field name="id">ETHNO:luo</field><field name="name">Luo</field></doc>
+<doc boost="4.633468455579586"><field name="id">ETHNO:luxembourgers</field><field name="name">Luxembourgers</field></doc>
+<doc boost="3.609060549930087"><field name="id">ETHNO:luxembourgamerican</field><field name="name">Luxembourg American</field></doc>
+<doc boost="5.103803720955957"><field name="id">ETHNO:maasai</field><field name="name">Maasai</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:macaoese</field><field name="name">Macaoese</field></doc>
+<doc boost="6.301029995663981"><field name="id">ETHNO:macedonians</field><field name="name">Macedonians</field></doc>
+<doc boost="3.4771212547196626"><field name="id">ETHNO:macuxi</field><field name="name">Macuxi</field></doc>
+<doc boost="4.427778137224173"><field name="id">ETHNO:madeirans</field><field name="name">Madeirans</field></doc>
+<doc boost="5.414973347970818"><field name="id">ETHNO:madheshis</field><field name="name">Madheshis</field></doc>
+<doc boost="5.856085126109734"><field name="id">ETHNO:madurese</field><field name="name">Madurese</field></doc>
+<doc boost="5.278753600952829"><field name="id">ETHNO:magarpeople</field><field name="name">Magar people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:marwari</field><field name="name">Marwari</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mewat</field><field name="name">Mewat</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mahican</field><field name="name">Mahican</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mahorian</field><field name="name">Mahorian</field></doc>
+<doc boost="2.3979400086720375"><field name="id">ETHNO:maidu</field><field name="name">Maidu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mailu</field><field name="name">Mailu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:achang</field><field name="name">Achang</field></doc>
+<doc boost="3.9542425094393248"><field name="id">ETHNO:maka</field><field name="name">Maka</field></doc>
+<doc boost="2.0827853703164503"><field name="id">ETHNO:makah</field><field name="name">Makah</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:makong</field><field name="name">Makong</field></doc>
+<doc boost="5.064457989226918"><field name="id">ETHNO:makua</field><field name="name">Makua</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:malagasi</field><field name="name">Malagasi</field></doc>
+<doc boost="6.431363764158987"><field name="id">ETHNO:malay</field><field name="name">Malay</field></doc>
+<doc boost="6.553362289064911"><field name="id">ETHNO:malayali</field><field name="name">Malayali</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:maliseet</field><field name="name">Maliseet</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:maltese</field><field name="name">Maltese</field></doc>
+<doc boost="4.8061799739838875"><field name="id">ETHNO:mam</field><field name="name">Mam</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mamamwa</field><field name="name">Mamamwa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:manasi</field><field name="name">Manasi</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:manchu</field><field name="name">Manchu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mandan</field><field name="name">Mandan</field></doc>
+<doc boost="6.113943352306837"><field name="id">ETHNO:mandinka</field><field name="name">Mandinka</field></doc>
+<doc boost="2.6532125137753435"><field name="id">ETHNO:mangpeople</field><field name="name">Mang people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mangbetu</field><field name="name">Mangbetu</field></doc>
+<doc boost="4.0"><field name="id">ETHNO:mangyan</field><field name="name">Mangyan</field></doc>
+<doc boost="3.0969100130080562"><field name="id">ETHNO:mansis</field><field name="name">Mansis</field></doc>
+<doc boost="3.6020599913279625"><field name="id">ETHNO:manx</field><field name="name">Manx</field></doc>
+<doc boost="4.02938377768521"><field name="id">ETHNO:maonan</field><field name="name">Maonan</field></doc>
+<doc boost="4.8750612633917"><field name="id">ETHNO:mori</field><field name="name">Māori</field></doc>
+<doc boost="5.230448921378274"><field name="id">ETHNO:mapuche</field><field name="name">Mapuche</field></doc>
+<doc boost="7.845098040014257"><field name="id">ETHNO:marathis</field><field name="name">Marathis</field></doc>
+<doc boost="4.778151250383644"><field name="id">ETHNO:mari</field><field name="name">Mari</field></doc>
+<doc boost="1.9030899869919435"><field name="id">ETHNO:maricopa</field><field name="name">Maricopa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:marindanim</field><field name="name">Marind-Anim</field></doc>
+<doc boost="1.8920946026904804"><field name="id">ETHNO:mashantucketpequots</field><field name="name">Mashantucket Pequots</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:matabele</field><field name="name">Matabele</field></doc>
+<doc boost="3.6232492903979003"><field name="id">ETHNO:mataco</field><field name="name">Mataco</field></doc>
+<doc boost="1.591064607026499"><field name="id">ETHNO:matis</field><field name="name">Matis</field></doc>
+<doc boost="2.0"><field name="id">ETHNO:mattaponi</field><field name="name">Mattaponi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:maubere</field><field name="name">Maubere</field></doc>
+<doc boost="5.778151250383644"><field name="id">ETHNO:maya</field><field name="name">Maya</field></doc>
+<doc boost="3.6020599913279625"><field name="id">ETHNO:mayo</field><field name="name">Mayo</field></doc>
+<doc boost="5.6020599913279625"><field name="id">ETHNO:mazandarenis</field><field name="name">Mazandarenis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mbaka</field><field name="name">M'Baka</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mbaya</field><field name="name">Mbaya</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mbochi</field><field name="name">Mbochi</field></doc>
+<doc boost="3.4771212547196626"><field name="id">ETHNO:mbuti</field><field name="name">Mbuti</field></doc>
+<doc boost="2.7781512503836434"><field name="id">ETHNO:meglenoromanians</field><field name="name">Megleno-Romanians</field></doc>
+<doc boost="1.954242509439325"><field name="id">ETHNO:meherrin</field><field name="name">Meherrin</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mekeo</field><field name="name">Mekeo</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:melungeons</field><field name="name">Melungeons</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:memon</field><field name="name">Memon</field></doc>
+<doc boost="3.8920946026904804"><field name="id">ETHNO:menba</field><field name="name">Menba</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:mende</field><field name="name">Mende</field></doc>
+<doc boost="2.9395192526186187"><field name="id">ETHNO:menominee</field><field name="name">Menominee</field></doc>
+<doc boost="5.230448921378274"><field name="id">ETHNO:mennonites</field><field name="name">Mennonites</field></doc>
+<doc boost="3.806179973983887"><field name="id">ETHNO:mentawai</field><field name="name">Mentawai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mer</field><field name="name">Mer</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:meskhetians</field><field name="name">Meskhetians</field></doc>
+<doc boost="8.361727836017593"><field name="id">ETHNO:mestizo</field><field name="name">Mestizo</field></doc>
+<doc boost="4.5910646070264995"><field name="id">ETHNO:mtis</field><field name="name">Métis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:meitei</field><field name="name">Meitei</field></doc>
+<doc boost="2.5440680443502757"><field name="id">ETHNO:mewuk</field><field name="name">Me-Wuk</field></doc>
+<doc boost="3.4771212547196626"><field name="id">ETHNO:mbuti</field><field name="name">Mbuti</field></doc>
+<doc boost="1.6020599913279623"><field name="id">ETHNO:miccosukee</field><field name="name">Miccosukee</field></doc>
+<doc boost="3.8129133566428557"><field name="id">ETHNO:mikmaq</field><field name="name">Mi'kmaq</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mina</field><field name="name">Mina</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mekeo</field><field name="name">Mekeo</field></doc>
+<doc boost="5.954242509439325"><field name="id">ETHNO:miao</field><field name="name">Miao</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:minahasamanadonese</field><field name="name">Minahasa/Manadonese</field></doc>
+<doc boost="5.903089986991944"><field name="id">ETHNO:minangkabau</field><field name="name">Minangkabau</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mingo</field><field name="name">Mingo</field></doc>
+<doc boost="4.6020599913279625"><field name="id">ETHNO:mingrelians</field><field name="name">Mingrelians</field></doc>
+<doc boost="4.301029995663981"><field name="id">ETHNO:miskito</field><field name="name">Miskito</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mission</field><field name="name">Mission</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mitsogo</field><field name="name">Mitsogo</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:miwok</field><field name="name">Miwok</field></doc>
+<doc boost="4.919078092376074"><field name="id">ETHNO:mixtec</field><field name="name">Mixtec</field></doc>
+<doc boost="5.243038048686294"><field name="id">ETHNO:mizrahijews</field><field name="name">Mizrahi Jews</field></doc>
+<doc boost="5.176091259055681"><field name="id">ETHNO:mizo</field><field name="name">Mizo</field></doc>
+<doc boost="1.4771212547196624"><field name="id">ETHNO:mlabri</field><field name="name">Mlabri</field></doc>
+<doc boost="4.011739561388318"><field name="id">ETHNO:mnong</field><field name="name">Mnong</field></doc>
+<doc boost="1.9030899869919435"><field name="id">ETHNO:modoc</field><field name="name">Modoc</field></doc>
+<doc boost="6.113943352306837"><field name="id">ETHNO:mohajir</field><field name="name">Mohajir</field></doc>
+<doc boost="1.8808135922807914"><field name="id">ETHNO:mohave</field><field name="name">Mohave</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mohawk</field><field name="name">Mohawk</field></doc>
+<doc boost="2.113943352306837"><field name="id">ETHNO:mohegan</field><field name="name">Mohegan</field></doc>
+<doc boost="4.471291711058939"><field name="id">ETHNO:mokshas</field><field name="name">Mokshas</field></doc>
+<doc boost="2.6989700043360187"><field name="id">ETHNO:molisecroats</field><field name="name">Molise Croats</field></doc>
+<doc boost="5.9084850188786495"><field name="id">ETHNO:mon</field><field name="name">Mon</field></doc>
+<doc boost="2.3010299956639813"><field name="id">ETHNO:monacan</field><field name="name">Monacan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:monesque</field><field name="name">Monesque</field></doc>
+<doc boost="6.079181246047625"><field name="id">ETHNO:mongo</field><field name="name">Mongo</field></doc>
+<doc boost="6.041392685158225"><field name="id">ETHNO:mongols</field><field name="name">Mongols</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mono</field><field name="name">Mono</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:monovish</field><field name="name">Monovish</field></doc>
+<doc boost="3.255272505103306"><field name="id">ETHNO:montagnais</field><field name="name">Montagnais</field></doc>
+<doc boost="1.7781512503836436"><field name="id">ETHNO:montaukett</field><field name="name">Montaukett</field></doc>
+<doc boost="4.535294120042771"><field name="id">ETHNO:montenegrins</field><field name="name">Montenegrins</field></doc>
+<doc boost="4.720159303405957"><field name="id">ETHNO:moravians</field><field name="name">Moravians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:moriori</field><field name="name">Moriori</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:morisco</field><field name="name">Morisco</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:morlachs</field><field name="name">Morlachs</field></doc>
+<doc boost="5.991226075692495"><field name="id">ETHNO:moro</field><field name="name">Moro</field></doc>
+<doc boost="5.8750612633917"><field name="id">ETHNO:mossi</field><field name="name">Mossi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:motuan</field><field name="name">Motuan</field></doc>
+<doc boost="2.5185139398778875"><field name="id">ETHNO:muckleshoot</field><field name="name">Muckleshoot</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mudjar</field><field name="name">Mudéjar</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:muhajirpakistan</field><field name="name">Muhajir (Pakistan)</field></doc>
+<doc boost="4.315970345456917"><field name="id">ETHNO:mulam</field><field name="name">Mulam</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:mulatto</field><field name="name">Mulatto</field></doc>
+<doc boost="5.954242509439325"><field name="id">ETHNO:mundas</field><field name="name">Mundas</field></doc>
+<doc boost="3.0655797147284485"><field name="id">ETHNO:mundurucu</field><field name="name">Mundurucu</field></doc>
+<doc boost="5.103447932533578"><field name="id">ETHNO:muong</field><field name="name">Muong</field></doc>
+<doc boost="2.8750612633917"><field name="id">ETHNO:mursi</field><field name="name">Mursi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:museu</field><field name="name">Museu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:myene</field><field name="name">Myene</field></doc>
+<doc boost="5.301029995663981"><field name="id">ETHNO:naga</field><field name="name">Naga</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:nahanni</field><field name="name">Nahanni</field></doc>
+<doc boost="5.544068044350276"><field name="id">ETHNO:nahua</field><field name="name">Nahua</field></doc>
+<doc boost="4.0"><field name="id">ETHNO:namaqua</field><field name="name">Namaqua</field></doc>
+<doc boost="3.255272505103306"><field name="id">ETHNO:nanais</field><field name="name">Nanais</field></doc>
+<doc boost="1.3010299956639813"><field name="id">ETHNO:nansemond</field><field name="name">Nansemond</field></doc>
+<doc boost="2.380211241711606"><field name="id">ETHNO:narragansett</field><field name="name">Narragansett</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:nasia</field><field name="name">Nasia</field></doc>
+<doc boost="2.7781512503836434"><field name="id">ETHNO:natchez</field><field name="name">Natchez</field></doc>
+<doc boost="2.7781512503836434"><field name="id">ETHNO:nauruan</field><field name="name">Nauruan</field></doc>
+<doc boost="4.477121254719663"><field name="id">ETHNO:navajo</field><field name="name">Navajo</field></doc>
+<doc boost="4.477121254719663"><field name="id">ETHNO:naxi</field><field name="name">Naxi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ndau</field><field name="name">Ndau</field></doc>
+<doc boost="4.845098040014257"><field name="id">ETHNO:ndebele</field><field name="name">Ndebele</field></doc>
+<doc boost="1.7403626894942439"><field name="id">ETHNO:negidals</field><field name="name">Negidals</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:negrito</field><field name="name">Negrito</field></doc>
+<doc boost="3.6532125137753435"><field name="id">ETHNO:nenets</field><field name="name">Nenets</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:nespelem</field><field name="name">Nespelem</field></doc>
+<doc boost="3.0791812460476247"><field name="id">ETHNO:nevisian</field><field name="name">Nevisian</field></doc>
+<doc boost="5.12057393120585"><field name="id">ETHNO:newar</field><field name="name">Newar</field></doc>
+<doc boost="2.5440680443502757"><field name="id">ETHNO:nezperc</field><field name="name">Nez Percé</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ngasan</field><field name="name">Ngasan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ngae</field><field name="name">Ngae</field></doc>
+<doc boost="2.0"><field name="id">ETHNO:ngi</field><field name="name">Ngái</field></doc>
+<doc boost="2.0"><field name="id">ETHNO:nganasans</field><field name="name">Nganasans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:nhahuen</field><field name="name">Nhahuen</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:nhuon</field><field name="name">Nhuon</field></doc>
+<doc boost="3.0"><field name="id">ETHNO:niominka</field><field name="name">Niominka</field></doc>
+<doc boost="2.146128035678238"><field name="id">ETHNO:nipmuc</field><field name="name">Nipmuc</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:nishka</field><field name="name">Nishka</field></doc>
+<doc boost="1.7634279935629373"><field name="id">ETHNO:nisqually</field><field name="name">Nisqually</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:nisei</field><field name="name">Nisei</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:nisse</field><field name="name">Nisse</field></doc>
+<doc boost="2.7634279935629373"><field name="id">ETHNO:nivkh</field><field name="name">Nivkh</field></doc>
+<doc boost="2.146128035678238"><field name="id">ETHNO:niuean</field><field name="name">Niuean</field></doc>
+<doc boost="4.389166084364533"><field name="id">ETHNO:nivanuatu</field><field name="name">Ni-Vanuatu</field></doc>
+<doc boost="2.845098040014257"><field name="id">ETHNO:njem</field><field name="name">Njem</field></doc>
+<doc boost="4.107209969647869"><field name="id">ETHNO:nogais</field><field name="name">Nogais</field></doc>
+<doc boost="1.5185139398778875"><field name="id">ETHNO:nomlaki</field><field name="name">Nomlaki</field></doc>
+<doc boost="2.255272505103306"><field name="id">ETHNO:nooksack</field><field name="name">Nooksack</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:northumbrians</field><field name="name">Northumbrians</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:norwegians</field><field name="name">Norwegians</field></doc>
+<doc boost="3.4313637641589874"><field name="id">ETHNO:nu</field><field name="name">Nu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:nu</field><field name="name">N/u</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:nubapeoples</field><field name="name">Nuba peoples</field></doc>
+<doc boost="5.230448921378274"><field name="id">ETHNO:nubians</field><field name="name">Nubians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:nuer</field><field name="name">Nuer</field></doc>
+<doc boost="1.7403626894942439"><field name="id">ETHNO:nukak</field><field name="name">Nukak</field></doc>
+<doc boost="4.985875357308394"><field name="id">ETHNO:nung</field><field name="name">Nung</field></doc>
+<doc boost="4.477121254719663"><field name="id">ETHNO:nuristani</field><field name="name">Nuristani</field></doc>
+<doc boost="2.9694159123539814"><field name="id">ETHNO:nuuchahnulth</field><field name="name">Nuu-chah-nulth</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:nyagatom</field><field name="name">Nyagatom</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:nzema</field><field name="name">Nzema</field></doc>
+<doc boost="1.7558748556724915"><field name="id">ETHNO:odu</field><field name="name">O Du</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:occitania</field><field name="name">Occitania</field></doc>
+<doc boost="3.1760912590556813"><field name="id">ETHNO:odawa</field><field name="name">Odawa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ogaden</field><field name="name">Ogaden</field></doc>
+<doc boost="3.670709595223797"><field name="id">ETHNO:oglala</field><field name="name">Oglala</field></doc>
+<doc boost="4.929418925714293"><field name="id">ETHNO:ogoni</field><field name="name">Ogoni</field></doc>
+<doc boost="4.342422680822207"><field name="id">ETHNO:ojibwa</field><field name="name">Ojibwa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:okamba</field><field name="name">Okamba</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:okande</field><field name="name">Okande</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:okies</field><field name="name">Okies</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:okinawans</field><field name="name">Okinawans</field></doc>
+<doc boost="2.7781512503836434"><field name="id">ETHNO:omaha</field><field name="name">Omaha</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:omagua</field><field name="name">Omagua</field></doc>
+<doc boost="3.6532125137753435"><field name="id">ETHNO:oneida</field><field name="name">Oneida</field></doc>
+<doc boost="2.6989700043360187"><field name="id">ETHNO:onondaga</field><field name="name">Onondaga</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:oodham</field><field name="name">O'Odham</field></doc>
+<doc boost="2.0"><field name="id">ETHNO:oroch</field><field name="name">Oroch</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:orokaiva</field><field name="name">Orokaiva</field></doc>
+<doc boost="1.5563025007672873"><field name="id">ETHNO:oroks</field><field name="name">Oroks</field></doc>
+<doc boost="6.531478917042255"><field name="id">ETHNO:oromo</field><field name="name">Oromo</field></doc>
+<doc boost="2.9030899869919438"><field name="id">ETHNO:oroqen</field><field name="name">Oroqen</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:oroshoris</field><field name="name">Oroshoris</field></doc>
+<doc boost="3.2041199826559246"><field name="id">ETHNO:osagenation</field><field name="name">Osage Nation</field></doc>
+<doc boost="4.857332496431268"><field name="id">ETHNO:ossetians</field><field name="name">Ossetians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:otavaleo</field><field name="name">Otavaleño</field></doc>
+<doc boost="2.406540180433955"><field name="id">ETHNO:otoemissouria</field><field name="name">Otoe-Missouria</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ottawa</field><field name="name">Ottawa</field></doc>
+<doc boost="5.176091259055681"><field name="id">ETHNO:ovambo</field><field name="name">Ovambo</field></doc>
+<doc boost="2.833147111912785"><field name="id">ETHNO:pathen</field><field name="name">Pa Then</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:pacoh</field><field name="name">Pacoh</field></doc>
+<doc boost="2.7993405494535817"><field name="id">ETHNO:paiute</field><field name="name">Paiute</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:pkeh</field><field name="name">Pākehā</field></doc>
+<doc boost="3.1760912590556813"><field name="id">ETHNO:palcene</field><field name="name">Palcene</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:paliyan</field><field name="name">Paliyan</field></doc>
+<doc boost="1.3010299956639813"><field name="id">ETHNO:pamunkey</field><field name="name">Pamunkey</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:panamanian</field><field name="name">Panamanian</field></doc>
+<doc boost="5.176091259055681"><field name="id">ETHNO:pangasinanpeople</field><field name="name">Pangasinan people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:panoan</field><field name="name">Panoan</field></doc>
+<doc boost="4.778151250383644"><field name="id">ETHNO:pao</field><field name="name">Pa-O</field></doc>
+<doc boost="5.903089986991944"><field name="id">ETHNO:pashu</field><field name="name">Pashu</field></doc>
+<doc boost="6.698970004336019"><field name="id">ETHNO:pashtun</field><field name="name">Pashtun</field></doc>
+<doc boost="5.096910013008056"><field name="id">ETHNO:parsi</field><field name="name">Parsi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:passamaquoddy</field><field name="name">Passamaquoddy</field></doc>
+<doc boost="2.4456042032735974"><field name="id">ETHNO:pataxo</field><field name="name">Pataxo</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:pattar</field><field name="name">Pattar</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:pathi</field><field name="name">Pa-Thi</field></doc>
+<doc boost="1.0"><field name="id">ETHNO:paugusset</field><field name="name">Paugusset</field></doc>
+<doc boost="2.510545010206612"><field name="id">ETHNO:pawnee</field><field name="name">Pawnee</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:pennsylvaniadutch</field><field name="name">Pennsylvania Dutch</field></doc>
+<doc boost="2.9777236052888476"><field name="id">ETHNO:penan</field><field name="name">Penan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:pennsylvaniagerman</field><field name="name">Pennsylvania German</field></doc>
+<doc boost="2.3560258571931225"><field name="id">ETHNO:penobscot</field><field name="name">Penobscot</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:peoria</field><field name="name">Peoria</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:papel</field><field name="name">Papel</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:perce</field><field name="name">Perce</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:phong</field><field name="name">Phong</field></doc>
+<doc boost="3.041392685158225"><field name="id">ETHNO:phula</field><field name="name">Phu La</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:phunoi</field><field name="name">Phu Noi</field></doc>
+<doc boost="4.939519252618618"><field name="id">ETHNO:phuthai</field><field name="name">Phu Thai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:picardy</field><field name="name">Picardy</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:piednoir</field><field name="name">Pied-noir</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:piegan</field><field name="name">Piegan</field></doc>
+<doc boost="3.3010299956639813"><field name="id">ETHNO:pima</field><field name="name">Pima</field></doc>
+<doc boost="2.255272505103306"><field name="id">ETHNO:pitriverindians</field><field name="name">Pit River Indians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:pitcairnnorfolk</field><field name="name">Pitcairn-Norfolk</field></doc>
+<doc boost="2.6020599913279625"><field name="id">ETHNO:pilaga</field><field name="name">Pilaga</field></doc>
+<doc boost="4.880813592280791"><field name="id">ETHNO:pokotpeople</field><field name="name">Pokot people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:polabianslavs</field><field name="name">Polabian Slavs</field></doc>
+<doc boost="7.778151250383644"><field name="id">ETHNO:polish</field><field name="name">Polish</field></doc>
+<doc boost="5.176091259055681"><field name="id">ETHNO:polynesians</field><field name="name">Polynesians</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:pomaks</field><field name="name">Pomaks</field></doc>
+<doc boost="3.0"><field name="id">ETHNO:pomo</field><field name="name">Pomo</field></doc>
+<doc boost="2.8260748027008264"><field name="id">ETHNO:ponca</field><field name="name">Ponca</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ponhpeian</field><field name="name">Ponhpeian</field></doc>
+<doc boost="5.477121254719663"><field name="id">ETHNO:ponticgreeks</field><field name="name">Pontic Greeks</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:poospatuck</field><field name="name">Poospatuck</field></doc>
+<doc boost="7.060697840353612"><field name="id">ETHNO:portuguese</field><field name="name">Portuguese</field></doc>
+<doc boost="3.4471580313422194"><field name="id">ETHNO:potawatomi</field><field name="name">Potawatomi</field></doc>
+<doc boost="3.0791812460476247"><field name="id">ETHNO:potiguara</field><field name="name">Potiguara</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:powhatan</field><field name="name">Powhatan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:pupeo</field><field name="name">Pu Peo</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:pueblopeople</field><field name="name">Pueblo people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:puelche</field><field name="name">Puelche</field></doc>
+<doc boost="5.929418925714293"><field name="id">ETHNO:puertoricans</field><field name="name">Puerto Ricans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:pugetsoundsalish</field><field name="name">Puget Sound Salish</field></doc>
+<doc boost="4.243038048686294"><field name="id">ETHNO:purpecha</field><field name="name">Purépecha</field></doc>
+<doc boost="2.6989700043360187"><field name="id">ETHNO:punan</field><field name="name">Punan</field></doc>
+<doc boost="3.4771212547196626"><field name="id">ETHNO:pumi</field><field name="name">Pumi</field></doc>
+<doc boost="7.079181246047625"><field name="id">ETHNO:punjabis</field><field name="name">Punjabis</field></doc>
+<doc boost="2.6020599913279625"><field name="id">ETHNO:puyallup</field><field name="name">Puyallup</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:qashqai</field><field name="name">Qashqai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:qeros</field><field name="name">Q'eros</field></doc>
+<doc boost="4.301029995663981"><field name="id">ETHNO:qiang</field><field name="name">Qiang</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:quahatika</field><field name="name">Quahatika</field></doc>
+<doc boost="2.510545010206612"><field name="id">ETHNO:quapaw</field><field name="name">Quapaw</field></doc>
+<doc boost="2.0791812460476247"><field name="id">ETHNO:quechan</field><field name="name">Quechan</field></doc>
+<doc boost="5.987727026158653"><field name="id">ETHNO:qubcois</field><field name="name">Québécois</field></doc>
+<doc boost="6.041392685158225"><field name="id">ETHNO:quechuas</field><field name="name">Quechuas</field></doc>
+<doc boost="5.103803720955957"><field name="id">ETHNO:quichkiche</field><field name="name">Quiché (K'iche')</field></doc>
+<doc boost="2.3010299956639813"><field name="id">ETHNO:quileute</field><field name="name">Quileute</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:quinault</field><field name="name">Quinault</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:quinqui</field><field name="name">Quinqui</field></doc>
+<doc boost="4.087213341231615"><field name="id">ETHNO:raglai</field><field name="name">Ra Glai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:rais</field><field name="name">Rais</field></doc>
+<doc boost="6.113943352306837"><field name="id">ETHNO:rajasthani</field><field name="name">Rajasthani</field></doc>
+<doc boost="5.526468512469477"><field name="id">ETHNO:rakhine</field><field name="name">Rakhine</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:rakuba</field><field name="name">Rakuba</field></doc>
+<doc boost="2.423245873936808"><field name="id">ETHNO:ramapoughmountainindians</field><field name="name">Ramapough Mountain Indians</field></doc>
+<doc boost="1.6989700043360187"><field name="id">ETHNO:rappahannock</field><field name="name">Rappahannock</field></doc>
+<doc boost="4.431363764158987"><field name="id">ETHNO:rashaida</field><field name="name">Rashaida</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:rehoboth</field><field name="name">Rehoboth</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ripuarian</field><field name="name">Ripuarian</field></doc>
+<doc boost="1.6334684555795864"><field name="id">ETHNO:romam</field><field name="name">Ro Mam</field></doc>
+<doc boost="5.477121254719663"><field name="id">ETHNO:rohingya</field><field name="name">Rohingya</field></doc>
+<doc boost="6.301029995663981"><field name="id">ETHNO:romani</field><field name="name">Romani</field></doc>
+<doc boost="6.373351411754845"><field name="id">ETHNO:romanians</field><field name="name">Romanians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:roshanis</field><field name="name">Roshanis</field></doc>
+<doc boost="3.0"><field name="id">ETHNO:rotuman</field><field name="name">Rotuman</field></doc>
+<doc boost="8.123851640967086"><field name="id">ETHNO:russians</field><field name="name">Russians</field></doc>
+<doc boost="5.079181246047625"><field name="id">ETHNO:rusyns</field><field name="name">Rusyns</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ruthenians</field><field name="name">Ruthenians</field></doc>
+<doc boost="3.5440680443502757"><field name="id">ETHNO:rutuls</field><field name="name">Rutuls</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ryukyuans</field><field name="name">Ryukyuans</field></doc>
+<doc boost="5.0"><field name="id">ETHNO:saarlanders</field><field name="name">Saarlanders</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sadang</field><field name="name">Sadang</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:saek</field><field name="name">Saek</field></doc>
+<doc boost="4.328379603438738"><field name="id">ETHNO:saho</field><field name="name">Saho</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:saingolo</field><field name="name">Saingolo</field></doc>
+<doc boost="4.017033339298781"><field name="id">ETHNO:salar</field><field name="name">Salar</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:salish</field><field name="name">Salish</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:samanthan</field><field name="name">Samanthan</field></doc>
+<doc boost="1.9030899869919435"><field name="id">ETHNO:samaritan</field><field name="name">Samaritan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:samegrelo</field><field name="name">Samegrelo</field></doc>
+<doc boost="4.212187604403958"><field name="id">ETHNO:sami</field><field name="name">Sami</field></doc>
+<doc boost="3.505149978319906"><field name="id">ETHNO:sammarinese</field><field name="name">Sammarinese</field></doc>
+<doc boost="4.740362689494244"><field name="id">ETHNO:samoans</field><field name="name">Samoans</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:samogitians</field><field name="name">Samogitians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:samojeeds</field><field name="name">Samojeeds</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:samtao</field><field name="name">Samtao</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:samburu</field><field name="name">Samburu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:san</field><field name="name">San</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sanchay</field><field name="name">San Chay</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sandiu</field><field name="name">San Diu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sanema</field><field name="name">Sanema</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:santal</field><field name="name">Santal</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:santeesioux</field><field name="name">Santee Sioux</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:saponi</field><field name="name">Saponi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sara</field><field name="name">Sara</field></doc>
+<doc boost="7.3979400086720375"><field name="id">ETHNO:saraikis</field><field name="name">Saraikis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:saramaka</field><field name="name">Saramaka</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sarakatsani</field><field name="name">Sarakatsani</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sauk</field><field name="name">Sauk</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sauksuiattle</field><field name="name">Sauk-Suiattle</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:savoyarddialect</field><field name="name">Savoyard dialect</field></doc>
+<doc boost="7.447158031342219"><field name="id">ETHNO:scottish</field><field name="name">Scottish</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sekani</field><field name="name">Sekani</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:selknam</field><field name="name">Selk'nam</field></doc>
+<doc boost="2.561101383649056"><field name="id">ETHNO:selkups</field><field name="name">Selkups</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:semai</field><field name="name">Semai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:seminole</field><field name="name">Seminole</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sena</field><field name="name">Sena</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:seneca</field><field name="name">Seneca</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:senegalesepeople</field><field name="name">Senegalese people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sentinelese</field><field name="name">Sentinelese</field></doc>
+<doc boost="5.342422680822207"><field name="id">ETHNO:sephardicjews</field><field name="name">Sephardic Jews</field></doc>
+<doc boost="7.021189299069938"><field name="id">ETHNO:serbs</field><field name="name">Serbs</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:serer</field><field name="name">Serer</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sererndut</field><field name="name">Serer-Ndut</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:seychelloiscreolepeople</field><field name="name">Seychellois Creole people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:seychelloispeople</field><field name="name">Seychellois people</field></doc>
+<doc boost="5.778151250383644"><field name="id">ETHNO:shan</field><field name="name">Shan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:shangaan</field><field name="name">Shangaan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:shasta</field><field name="name">Shasta</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:shavante</field><field name="name">Shavante</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:shawnee</field><field name="name">Shawnee</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:she</field><field name="name">She</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sherpa</field><field name="name">Sherpa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:shinnecock</field><field name="name">Shinnecock</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:shipibo</field><field name="name">Shipibo</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:shoalwaterbaytribe</field><field name="name">Shoalwater Bay Tribe</field></doc>
+<doc boost="6.146128035678238"><field name="id">ETHNO:shona</field><field name="name">Shona</field></doc>
+<doc boost="3.1099158630237933"><field name="id">ETHNO:shors</field><field name="name">Shors</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:shoshone</field><field name="name">Shoshone</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:shughnis</field><field name="name">Shughnis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:shui</field><field name="name">Shui</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sila</field><field name="name">Si La</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sidamo</field><field name="name">Sidamo</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:siddi</field><field name="name">Siddi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:siksika</field><field name="name">Siksika</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:silesians</field><field name="name">Silesians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:siletz</field><field name="name">Siletz</field></doc>
+<doc boost="7.3979400086720375"><field name="id">ETHNO:sindhis</field><field name="name">Sindhis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:singmun</field><field name="name">Singmun</field></doc>
+<doc boost="6.176091259055681"><field name="id">ETHNO:sinhalese</field><field name="name">Sinhalese</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sinti</field><field name="name">Sinti</field></doc>
+<doc boost="4.230729844577681"><field name="id">ETHNO:sioux</field><field name="name">Sioux</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:siuslaw</field><field name="name">Siuslaw</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:skagit</field><field name="name">Skagit</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sklallam</field><field name="name">S'Klallam</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:skokomish</field><field name="name">Skokomish</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:swxwmesh</field><field name="name">Sḵwxwú7mesh</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:slavs</field><field name="name">Slavs</field></doc>
+<doc boost="5.778151250383644"><field name="id">ETHNO:slovaks</field><field name="name">Slovaks</field></doc>
+<doc boost="6.301029995663981"><field name="id">ETHNO:slovenes</field><field name="name">Slovenes</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sokci</field><field name="name">Sokci</field></doc>
+<doc boost="7.204119982655925"><field name="id">ETHNO:somali</field><field name="name">Somali</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:somba</field><field name="name">Somba</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:songhai</field><field name="name">Songhai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:soninke</field><field name="name">Soninke</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sorbs</field><field name="name">Sorbs</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:souei</field><field name="name">Souei</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:southerntutchone</field><field name="name">Southern Tutchone</field></doc>
+<doc boost="8.127104798364808"><field name="id">ETHNO:spaniards</field><field name="name">Spaniards</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:spokane</field><field name="name">Spokane</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:squaxinislandtribe</field><field name="name">Squaxin Island Tribe</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:srilankanmoors</field><field name="name">Sri Lankan Moors</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:stillaguamish</field><field name="name">Stillaguamish</field></doc>
+<doc boost="6.6020599913279625"><field name="id">ETHNO:sundanese</field><field name="name">Sundanese</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:suquamish</field><field name="name">Suquamish</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:suri</field><field name="name">Suri</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:surui</field><field name="name">Surui</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:susu</field><field name="name">Susu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:suy</field><field name="name">Suyá</field></doc>
+<doc boost="4.146128035678238"><field name="id">ETHNO:svans</field><field name="name">Svans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:arameansyriacs</field><field name="name">Aramean-Syriacs</field></doc>
+<doc boost="5.123198075031999"><field name="id">ETHNO:swahilipeople</field><field name="name">Swahili people</field></doc>
+<doc boost="5.3948087762115815"><field name="id">ETHNO:swazi</field><field name="name">Swazi</field></doc>
+<doc boost="6.122215878272827"><field name="id">ETHNO:swedes</field><field name="name">Swedes</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:swinomish</field><field name="name">Swinomish</field></doc>
+<doc boost="5.778151250383644"><field name="id">ETHNO:syrianchristians</field><field name="name">Syrian Christians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:swissromansh</field><field name="name">Swiss Romansh</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:sylheti</field><field name="name">Sylheti</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tboli</field><field name="name">T'boli</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:taoi</field><field name="name">Ta Oi</field></doc>
+<doc boost="4.301029995663981"><field name="id">ETHNO:tabasarans</field><field name="name">Tabasarans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tach</field><field name="name">Taché</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tachi</field><field name="name">Tachi</field></doc>
+<doc boost="6.342422680822207"><field name="id">ETHNO:tagalogs</field><field name="name">Tagalogs</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tagish</field><field name="name">Tagish</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tano</field><field name="name">Taíno</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:taiwaneseaborigines</field><field name="name">Taiwanese aborigines</field></doc>
+<doc boost="7.301029995663981"><field name="id">ETHNO:tajiks</field><field name="name">Tajiks</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:taliang</field><field name="name">Taliang</field></doc>
+<doc boost="4.698970004336019"><field name="id">ETHNO:talysh</field><field name="name">Talysh</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tamang</field><field name="name">Tamang</field></doc>
+<doc boost="6.886490725172482"><field name="id">ETHNO:tamil</field><field name="name">Tamil</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tanna</field><field name="name">Tanna</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tanana</field><field name="name">Tanana</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:taos</field><field name="name">Taos</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tapajo</field><field name="name">Tapajo</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tapirap</field><field name="name">Tapirapé</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tapuia</field><field name="name">Tapuia</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tarahumara</field><field name="name">Tarahumara</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tarascan</field><field name="name">Tarascan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tasaday</field><field name="name">Tasaday</field></doc>
+<doc boost="5.832508912706237"><field name="id">ETHNO:tatars</field><field name="name">Tatars</field></doc>
+<doc boost="4.037426497940624"><field name="id">ETHNO:tats</field><field name="name">Tats</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tay</field><field name="name">Tay</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:teda</field><field name="name">Teda</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tehuelche</field><field name="name">Tehuelche</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:teimani</field><field name="name">Teimani</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tejano</field><field name="name">Tejano</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:telefolmin</field><field name="name">Telefolmin</field></doc>
+<doc boost="6.903089986991944"><field name="id">ETHNO:telugu</field><field name="name">Telugu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:terena</field><field name="name">Terena</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tetons</field><field name="name">Tetons</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tewa</field><field name="name">Tewa</field></doc>
+<doc boost="6.698970004336019"><field name="id">ETHNO:thais</field><field name="name">Thais</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:thakali</field><field name="name">Thakali</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tharu</field><field name="name">Tharu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:thin</field><field name="name">Thin</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:th</field><field name="name">Thổ</field></doc>
+<doc boost="5.812913356642856"><field name="id">ETHNO:tibetans</field><field name="name">Tibetans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ticuna</field><field name="name">Ticuna</field></doc>
+<doc boost="5.970318976330821"><field name="id">ETHNO:tigraytigrinya</field><field name="name">Tigray-Tigrinya</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tigrepeople</field><field name="name">Tigre people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tigua</field><field name="name">Tigua</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tindis</field><field name="name">Tindis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tipra</field><field name="name">Tipra</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tlakluit</field><field name="name">Tlakluit</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tlingit</field><field name="name">Tlingit</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:toala</field><field name="name">Toala</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:toba</field><field name="name">Toba</field></doc>
+<doc boost="1.8808135922807914"><field name="id">ETHNO:tofalars</field><field name="name">Tofalars</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tohonooodham</field><field name="name">Tohono O'odham</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tokelauan</field><field name="name">Tokelauan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tolowa</field><field name="name">Tolowa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tolais</field><field name="name">Tolais</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:toltec</field><field name="name">Toltec</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tonga</field><field name="name">Tonga</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tongans</field><field name="name">Tongans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tongva</field><field name="name">Tongva</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tonkawa</field><field name="name">Tonkawa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:topachula</field><field name="name">Topachula</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:toraja</field><field name="name">Toraja</field></doc>
+<doc boost="4.6020599913279625"><field name="id">ETHNO:torbesh</field><field name="name">Torbesh</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:torresstraitislanders</field><field name="name">Torres Strait Islanders</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:totonac</field><field name="name">Totonac</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:toubou</field><field name="name">Toubou</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:transylvaniansaxons</field><field name="name">Transylvanian Saxons</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tsakhurs</field><field name="name">Tsakhurs</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tsetsaut</field><field name="name">Tsetsaut</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tsez</field><field name="name">Tsez</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tsimishian</field><field name="name">Tsimishian</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tsonga</field><field name="name">Tsonga</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tsuutina</field><field name="name">Tsuu T'ina</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tswanapeople</field><field name="name">Tswana people</field></doc>
+<doc boost="5.079181246047625"><field name="id">ETHNO:tuareg</field><field name="name">Tuareg</field></doc>
+<doc boost="5.919078092376074"><field name="id">ETHNO:tujia</field><field name="name">Tujia</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tukano</field><field name="name">Tukano</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tukolor</field><field name="name">Tukolor</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tuamotu</field><field name="name">Tuamotu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tulalip</field><field name="name">Tulalip</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tulutni</field><field name="name">Tulutni</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tum</field><field name="name">Tum</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tumbuka</field><field name="name">Tumbuka</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tunicabiloxi</field><field name="name">Tunica-Biloxi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tuppeople</field><field name="name">Tupí people</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tupian</field><field name="name">Tupian</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tupinamba</field><field name="name">Tupinamba</field></doc>
+<doc boost="5.903089986991944"><field name="id">ETHNO:turkmens</field><field name="name">Turkmens</field></doc>
+<doc boost="6.845098040014257"><field name="id">ETHNO:turks</field><field name="name">Turks</field></doc>
+<doc boost="5.041392685158225"><field name="id">ETHNO:turkishcypriots</field><field name="name">Turkish Cypriots</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tusheti</field><field name="name">Tusheti</field></doc>
+<doc boost="5.3979400086720375"><field name="id">ETHNO:tutsi</field><field name="name">Tutsi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tuvaluans</field><field name="name">Tuvaluans</field></doc>
+<doc boost="4.447158031342219"><field name="id">ETHNO:tuvans</field><field name="name">Tuvans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:twapeoples</field><field name="name">Twa peoples</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:txicao</field><field name="name">Txicao</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:tzigane</field><field name="name">Tzigane</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:uwa</field><field name="name">U'wa</field></doc>
+<doc boost="2.230448921378274"><field name="id">ETHNO:udeges</field><field name="name">Udeges</field></doc>
+<doc boost="3.9030899869919438"><field name="id">ETHNO:udis</field><field name="name">Udis</field></doc>
+<doc boost="7.599883072073688"><field name="id">ETHNO:ukrainian</field><field name="name">Ukrainian</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ulchs</field><field name="name">Ulchs</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ulsterscots</field><field name="name">Ulster-Scots</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ulta</field><field name="name">Ulta</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:umatilla</field><field name="name">Umatilla</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:umpqua</field><field name="name">Umpqua</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:upperskagit</field><field name="name">Upper Skagit</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:urapmin</field><field name="name">Urapmin</field></doc>
+<doc boost="5.544068044350276"><field name="id">ETHNO:uruguayans</field><field name="name">Uruguayans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:ute</field><field name="name">Ute</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:uyghurs</field><field name="name">Uyghurs</field></doc>
+<doc boost="6.477121254719663"><field name="id">ETHNO:uzbeks</field><field name="name">Uzbeks</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:vaccaei</field><field name="name">Vaccaei</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:valencians</field><field name="name">Valencians</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:vaturanga</field><field name="name">Vaturanga</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:venesuala</field><field name="name">Venesuala</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:venda</field><field name="name">Venda</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:veps</field><field name="name">Veps</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:visayan</field><field name="name">Visayan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:vlachs</field><field name="name">Vlachs</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:volgagermans</field><field name="name">Volga Germans</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:votes</field><field name="name">Votes</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wa</field><field name="name">Wa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wabanaki</field><field name="name">Wabanaki</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:waccamaw</field><field name="name">Waccamaw</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wailaki</field><field name="name">Wailaki</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:waitaha</field><field name="name">Waitaha</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:waiwai</field><field name="name">Waiwai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:waki</field><field name="name">Waki</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wakhs</field><field name="name">Wakhs</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wallawalla</field><field name="name">Walla Walla</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:walsers</field><field name="name">Walsers</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wampanoag</field><field name="name">Wampanoag</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wasco</field><field name="name">Wasco</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:washoe</field><field name="name">Washoe</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wayana</field><field name="name">Wayana</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:welaytapeople</field><field name="name">Welayta people</field></doc>
+<doc boost="5.794822526733648"><field name="id">ETHNO:welsh</field><field name="name">Welsh</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:whitemountainapache</field><field name="name">White Mountain Apache</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wichita</field><field name="name">Wichita</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wintu</field><field name="name">Wintu</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wintun</field><field name="name">Wintun</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wishram</field><field name="name">Wishram</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wiyot</field><field name="name">Wiyot</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wolof</field><field name="name">Wolof</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wuchinese</field><field name="name">Wu Chinese</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wyandot</field><field name="name">Wyandot</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:wyyanaha</field><field name="name">Wyyanaha</field></doc>
+<doc boost="2.7781512503836434"><field name="id">ETHNO:xakriab</field><field name="name">Xakriabá</field></doc>
+<doc boost="2.9822712330395684"><field name="id">ETHNO:xavante</field><field name="name">Xavante</field></doc>
+<doc boost="2.2576785748691846"><field name="id">ETHNO:xerente</field><field name="name">Xerente</field></doc>
+<doc boost="5.897627091290442"><field name="id">ETHNO:xhosa</field><field name="name">Xhosa</field></doc>
+<doc boost="4.237794993273923"><field name="id">ETHNO:xibe</field><field name="name">Xibe</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:xikrin</field><field name="name">Xikrin</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:xinuygurs</field><field name="name">Xin Uygurs</field></doc>
+<doc boost="3.2555137128195333"><field name="id">ETHNO:xinhmun</field><field name="name">Xinh Mun</field></doc>
+<doc boost="4.104282207094438"><field name="id">ETHNO:xodang</field><field name="name">Xo Dang</field></doc>
+<doc boost="2.781755374652469"><field name="id">ETHNO:xtieng</field><field name="name">Xtieng</field></doc>
+<doc boost="2.929418925714293"><field name="id">ETHNO:xucuru</field><field name="name">Xucuru</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:xueda</field><field name="name">Xueda</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yaghan</field><field name="name">Yaghan</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yaghnabis</field><field name="name">Yaghnabis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yagua</field><field name="name">Yagua</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yakama</field><field name="name">Yakama</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yakugir</field><field name="name">Yakugir</field></doc>
+<doc boost="4.680063427481948"><field name="id">ETHNO:yakuts</field><field name="name">Yakuts</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yang</field><field name="name">Yang</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yanktonsioux</field><field name="name">Yankton Sioux</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yanomami</field><field name="name">Yanomami</field></doc>
+<doc boost="5.4623979978989565"><field name="id">ETHNO:yao</field><field name="name">Yao</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yavapai</field><field name="name">Yavapai</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yapese</field><field name="name">Yapese</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yaqui</field><field name="name">Yaqui</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yawanawa</field><field name="name">Yawanawa</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yawalpiti</field><field name="name">Yawalpiti</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yazgulamis</field><field name="name">Yazgulamis</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yekuana</field><field name="name">Yekuana</field></doc>
+<doc boost="5.939519252618618"><field name="id">ETHNO:yi</field><field name="name">Yi</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yochadehe</field><field name="name">Yocha-Dehe</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yokut</field><field name="name">Yokut</field></doc>
+<doc boost="6.6020599913279625"><field name="id">ETHNO:yoruba</field><field name="name">Yoruba</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yrks</field><field name="name">Yörüks</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yuchi</field><field name="name">Yuchi</field></doc>
+<doc boost="3.1760912590556813"><field name="id">ETHNO:yugur</field><field name="name">Yugur</field></doc>
+<doc boost="2.2068258760318495"><field name="id">ETHNO:yukaghirs</field><field name="name">Yukaghirs</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yuki</field><field name="name">Yuki</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yuma</field><field name="name">Yuma</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yumbri</field><field name="name">Yumbri</field></doc>
+<doc boost="3.4099331233312946"><field name="id">ETHNO:yupiks</field><field name="name">Yupiks</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yurok</field><field name="name">Yurok</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:yupeople</field><field name="name">Yu people</field></doc>
+<doc boost="4.8750612633917"><field name="id">ETHNO:zaghawa</field><field name="name">Zaghawa</field></doc>
+<doc boost="4.903089986991944"><field name="id">ETHNO:zambo</field><field name="name">Zambo</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:latinozamboangueo</field><field name="name">Latino Zamboangueño</field></doc>
+<doc boost="5.041392685158225"><field name="id">ETHNO:zapotec</field><field name="name">Zapotec</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:zarma</field><field name="name">Zarma</field></doc>
+<doc boost="6.0"><field name="id">ETHNO:zazas</field><field name="name">Zazas</field></doc>
+<doc boost="6.2552725051033065"><field name="id">ETHNO:zhuang</field><field name="name">Zhuang</field></doc>
+<doc boost="0.0"><field name="id">ETHNO:zou</field><field name="name">Zou</field></doc>
+<doc boost="5.6020599913279625"><field name="id">ETHNO:zulian</field><field name="name">Zulian</field></doc>
+<doc boost="6.02530586526477"><field name="id">ETHNO:zulu</field><field name="name">Zulu</field></doc>
+<doc boost="3.0791812460476247"><field name="id">ETHNO:zuni</field><field name="name">Zuni</field></doc>
+</add>
